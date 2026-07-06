@@ -1,0 +1,251 @@
+repos:
+  - name: RTK
+    display_name: RTK (Rust Token Killer)
+    url: https://github.com/rtk-ai/rtk
+    category: output-compression
+    language: Rust
+    license: Apache-2.0
+    providers: [Copilot, Claude, Cursor, Codex, Gemini, Windsurf, Cline, Kilo, Antigravity, Pi, Hermes]
+    why: CLI proxy that claims to compress dev-command outputs and show savings.
+    status: metadata-checked
+    last_checked: null
+
+  - name: Headroom
+    url: https://pypi.org/project/headroom-ai/
+    category: output-compression
+    language: Python + JS
+    license: Unknown
+    providers: [Copilot CLI, Claude, Codex, Cursor, Aider]
+    why: Compresses tool outputs, logs, files, and RAG payloads with stats.
+    status: metadata-checked
+    last_checked: null
+
+  - name: token-optimizer
+    url: https://github.com/alexgreensh/token-optimizer
+    category: token-optimization
+    language: Python
+    license: NOASSERTION
+    providers: [Claude, OpenCode, OpenClaw, Codex, Hermes, Copilot beta]
+    why: Compression, checkpoints, lean-output nudges, and dashboard/audit scripts.
+    status: metadata-checked
+    last_checked: null
+
+  - name: token-optimizer-mcp
+    url: https://github.com/ooples/token-optimizer-mcp
+    category: mcp-caching
+    language: TypeScript
+    license: MIT
+    providers: [Claude Code MCP]
+    why: MCP server for cached compressed file, grep, and API calls.
+    status: metadata-checked
+    last_checked: null
+
+  - name: Caveman
+    url: https://github.com/JuliusBrussee/caveman
+    category: terse-agent-output
+    language: JavaScript
+    license: MIT
+    providers: [Claude Code]
+    why: Skill-style workflow for terse responses and smaller instruction files.
+    status: metadata-checked
+    last_checked: null
+
+  - name: caveman-code
+    url: https://github.com/JuliusBrussee/caveman
+    category: agent-runtime
+    language: JavaScript
+    license: MIT
+    providers: [Multiple providers]
+    why: Terminal agent variant focused on minimal-token interaction.
+    status: seed
+    last_checked: null
+
+  - name: SkillOpt
+    url: https://github.com/microsoft/SkillOpt
+    category: skill-optimization
+    language: Python
+    license: MIT
+    providers: [Claude, Codex, Copilot, Devin, OpenClaw]
+    why: Optimizes skill files into smaller artifacts.
+    status: metadata-checked
+    last_checked: null
+
+  - name: Graphify
+    url: https://github.com/topics/graphify
+    category: codebase-retrieval
+    language: Python
+    license: OSS
+    providers: [Claude, Cursor, Gemini CLI, Copilot CLI]
+    why: Codebase-to-knowledge-graph retrieval so agents can query targeted context.
+    status: needs-url
+    last_checked: null
+
+  - name: LiteLLM
+    url: https://github.com/BerriAI/litellm
+    category: model-gateway-cost-tracking
+    language: Python
+    license: NOASSERTION
+    providers: [100+ providers]
+    why: Routes requests across models/providers and tracks usage/cost.
+    status: metadata-checked
+    last_checked: null
+
+  - name: claude-code-router
+    url: https://github.com/musistudio/claude-code-router
+    category: model-routing
+    language: TypeScript
+    license: MIT
+    providers: [Claude, OpenRouter, DeepSeek, Ollama, Gemini]
+    why: Routes Claude Code requests to alternate models by task.
+    status: metadata-checked
+    last_checked: null
+
+  - name: ccusage
+    url: https://github.com/ccusage/ccusage
+    category: usage-reporting
+    language: Rust
+    license: NOASSERTION
+    providers: [Claude, Copilot, Codex, Gemini, OpenCode, Amp]
+    why: Cross-provider usage and cost reporting from local logs.
+    status: metadata-checked
+    last_checked: null
+
+  - name: tokscale
+    url: https://github.com/junhoyeo/tokscale
+    category: usage-visualization
+    language: Rust + web
+    license: MIT
+    providers: [Copilot, Claude, Codex, Cursor, Gemini]
+    why: Usage viewer with graphing, pricing, and task attribution claims.
+    status: metadata-checked
+    last_checked: null
+
+  - name: Claude-Code-Usage-Monitor
+    url: https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor
+    category: claude-usage-monitor
+    language: Python
+    license: MIT
+    providers: [Claude Code]
+    why: Real-time burn-rate TUI and limit prediction.
+    status: metadata-checked
+    last_checked: null
+
+  - name: ccstatusline
+    url: https://github.com/sirmalloc/ccstatusline
+    category: claude-statusline
+    language: TypeScript
+    license: MIT
+    providers: [Claude Code]
+    why: Status bar for model, context fill, tokens, and cost.
+    status: metadata-checked
+    last_checked: null
+
+  - name: claude-usage
+    url: https://github.com/phuryn/claude-usage
+    category: claude-dashboard
+    language: Python
+    license: MIT
+    providers: [Claude Code]
+    why: Local dashboard and editor extension for Claude Code usage JSONL.
+    status: metadata-checked
+    last_checked: null
+
+  - name: ai-engineering-fluency
+    url: https://github.com/rajbos/ai-engineering-fluency
+    category: copilot-analytics
+    language: JavaScript
+    license: MIT
+    providers: [GitHub Copilot]
+    why: Copilot usage and engineering fluency dashboards from chat logs.
+    status: metadata-checked
+    last_checked: null
+
+  - name: CopilotPremiumUsageMonitor
+    url: https://github.com/Fail-Safe/CopilotPremiumUsageMonitor
+    category: copilot-billing-monitor
+    language: TypeScript
+    license: MIT
+    providers: [GitHub Copilot]
+    why: Premium request spend and budget tracking through GitHub billing APIs.
+    status: metadata-checked
+    last_checked: null
+
+  - name: copilot-usage-tracker
+    url: https://github.com/ethanhubin/copilot-usage-tracker
+    category: copilot-usage-monitor
+    language: TypeScript
+    license: MIT
+    providers: [GitHub Copilot]
+    why: VS Code status bar for premium request quota.
+    status: metadata-checked
+    last_checked: null
+
+  - name: github-copilot-token-usage
+    url: https://github.com/UncleBats/github-copilot-token-usage
+    category: copilot-token-monitor
+    language: TypeScript
+    license: MIT
+    providers: [GitHub Copilot]
+    why: Estimated daily/monthly Copilot token usage in status bar.
+    status: metadata-checked
+    last_checked: null
+
+  - name: LLMLingua
+    url: https://github.com/microsoft/LLMLingua
+    category: prompt-compression
+    language: Python
+    license: MIT
+    providers: [Any API provider]
+    why: Prompt compression library for reducing prompt token size.
+    status: metadata-checked
+    last_checked: null
+
+  - name: Continue.dev
+    url: https://github.com/continuedev/continue
+    category: codebase-retrieval
+    language: TypeScript
+    license: Apache-2.0
+    providers: [Any provider]
+    why: Open-source coding assistant with codebase retrieval.
+    status: metadata-checked
+    last_checked: null
+
+  - name: AnythingLLM
+    url: https://github.com/Mintplex-Labs/anything-llm
+    category: local-rag
+    language: JavaScript
+    license: MIT
+    providers: [Any provider]
+    why: Local RAG platform for indexing and querying docs/code.
+    status: metadata-checked
+    last_checked: null
+
+  - name: CodeGraph / tree-sitter MCP
+    url: https://github.com/topics/token-optimization
+    category: ast-retrieval
+    language: Rust / TypeScript
+    license: OSS
+    providers: [Claude, Cursor, MCP clients]
+    why: Symbol-level code retrieval idea using AST/tree-sitter style indexing.
+    status: needs-url
+    last_checked: null
+
+  - name: SovaCount
+    url: https://github.com/topics/caveman
+    category: tier-routing
+    language: Python
+    license: MIT
+    providers: [Haiku, Sonnet, Opus]
+    why: Scope classification, tier routing, and PII scrubbing claims.
+    status: needs-url
+    last_checked: null
+
+  - name: spartan
+    url: https://github.com/topics/caveman
+    category: prompt-output-compression
+    language: Markdown skill
+    license: OSS
+    providers: [Claude Code]
+    why: Compression-style skill with terse input/output conventions.
+    status: needs-url
+    last_checked: null
