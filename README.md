@@ -17,7 +17,7 @@ Rows are grouped by what the tool is. Within each group, starred GitHub repos ar
 
 Auto-updated from GitHub Trending. Current rows are repos trending now; archive rows are kept after they fall out so references are not lost.
 
-Generated: `2026-08-07T23:17:02Z`
+Generated: `2026-08-08T11:17:02Z`
 
 ### Current Trending Windows
 
