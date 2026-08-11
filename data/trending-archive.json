@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-08-11T11:17:02Z",
+  "checked_at": "2026-08-11T23:17:09Z",
   "repos": {
     "1jehuang/jcode": {
-      "active": false,
+      "active": true,
       "description": "The most RAM efficient harness",
       "first_seen": "2026-07-19",
       "language": "Rust",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-11",
       "name": "jcode",
-      "pushed_at": "2026-08-06T12:18:44Z",
-      "recent_stars": 7992,
-      "seen_count": 37,
+      "pushed_at": "2026-08-11T21:10:53Z",
+      "recent_stars": 8576,
+      "seen_count": 38,
       "slug": "1jehuang/jcode",
-      "stars": 16215,
+      "stars": 17190,
       "topics": [
         "ai",
         "ai-agent",
@@ -181,6 +181,29 @@
       ],
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "window": "daily"
+    },
+    "Comfy-Org/ComfyUI": {
+      "active": true,
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "first_seen": "2026-08-11",
+      "language": "Python",
+      "last_seen": "2026-08-11",
+      "name": "ComfyUI",
+      "pushed_at": "2026-08-11T22:06:37Z",
+      "recent_stars": 2842,
+      "seen_count": 1,
+      "slug": "Comfy-Org/ComfyUI",
+      "stars": 126810,
+      "topics": [
+        "ai",
+        "comfy",
+        "comfyui",
+        "python",
+        "pytorch",
+        "stable-diffusion"
+      ],
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "window": "weekly"
     },
     "ComposioHQ/awesome-claude-skills": {
       "active": false,
@@ -399,17 +422,17 @@
       "window": "weekly"
     },
     "HKUDS/DeepTutor": {
-      "active": false,
+      "active": true,
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "first_seen": "2026-07-15",
       "language": "Python",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-11",
       "name": "DeepTutor",
-      "pushed_at": "2026-08-06T19:18:42Z",
-      "recent_stars": 7519,
-      "seen_count": 39,
+      "pushed_at": "2026-08-11T09:03:08Z",
+      "recent_stars": 829,
+      "seen_count": 40,
       "slug": "HKUDS/DeepTutor",
-      "stars": 32741,
+      "stars": 34670,
       "topics": [
         "ai-agents",
         "ai-tutor",
@@ -422,7 +445,7 @@
         "rag"
       ],
       "url": "https://github.com/HKUDS/DeepTutor",
-      "window": "monthly"
+      "window": "daily"
     },
     "HKUDS/Vibe-Trading": {
       "active": false,
@@ -685,17 +708,17 @@
       "window": "monthly"
     },
     "Nutlope/hallmark": {
-      "active": false,
+      "active": true,
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "first_seen": "2026-07-12",
       "language": "CSS",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "hallmark",
       "pushed_at": "2026-08-06T16:19:18Z",
-      "recent_stars": 18764,
-      "seen_count": 53,
+      "recent_stars": 19841,
+      "seen_count": 54,
       "slug": "Nutlope/hallmark",
-      "stars": 22469,
+      "stars": 24000,
       "topics": [],
       "url": "https://github.com/Nutlope/hallmark",
       "window": "monthly"
@@ -859,6 +882,22 @@
       "url": "https://github.com/PrefectHQ/prefect",
       "window": "daily"
     },
+    "PrimeIntellect-ai/prime-agent": {
+      "active": true,
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "first_seen": "2026-08-11",
+      "language": "TypeScript",
+      "last_seen": "2026-08-11",
+      "name": "prime-agent",
+      "pushed_at": "2026-08-11T23:14:13Z",
+      "recent_stars": 1148,
+      "seen_count": 1,
+      "slug": "PrimeIntellect-ai/prime-agent",
+      "stars": 14045,
+      "topics": [],
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "window": "daily"
+    },
     "PrismML-Eng/Bonsai-demo": {
       "active": false,
       "description": "Bonsai Demo",
@@ -1000,17 +1039,17 @@
       "window": "weekly"
     },
     "TencentCloud/TencentDB-Agent-Memory": {
-      "active": false,
+      "active": true,
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "first_seen": "2026-07-08",
       "language": "TypeScript",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "TencentDB-Agent-Memory",
-      "pushed_at": "2026-08-06T12:07:09Z",
-      "recent_stars": 1057,
-      "seen_count": 19,
+      "pushed_at": "2026-08-11T12:12:06Z",
+      "recent_stars": 7555,
+      "seen_count": 20,
       "slug": "TencentCloud/TencentDB-Agent-Memory",
-      "stars": 17161,
+      "stars": 19862,
       "topics": [
         "agent",
         "ai-agent",
@@ -1023,7 +1062,7 @@
         "vector-search"
       ],
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "window": "daily"
+      "window": "weekly"
     },
     "UditAkhourii/adhd": {
       "active": false,
@@ -1098,17 +1137,17 @@
       "window": "monthly"
     },
     "ZhuLinsen/daily_stock_analysis": {
-      "active": false,
+      "active": true,
       "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "first_seen": "2026-07-07",
       "language": "Python",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-08-11",
       "name": "daily_stock_analysis",
-      "pushed_at": "2026-07-08T14:18:31Z",
-      "recent_stars": 14822,
-      "seen_count": 5,
+      "pushed_at": "2026-08-10T13:18:04Z",
+      "recent_stars": 317,
+      "seen_count": 6,
       "slug": "ZhuLinsen/daily_stock_analysis",
-      "stars": 56214,
+      "stars": 62094,
       "topics": [
         "a-stock",
         "ai-agent",
@@ -1119,7 +1158,7 @@
         "quantitative-trading"
       ],
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "window": "monthly"
+      "window": "daily"
     },
     "abus-aikorea/voice-pro": {
       "active": false,
@@ -1158,17 +1197,17 @@
       "window": "daily"
     },
     "addyosmani/agent-skills": {
-      "active": false,
+      "active": true,
       "description": "Production-grade engineering skills for AI coding agents.",
       "first_seen": "2026-07-06",
       "language": "JavaScript",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "agent-skills",
-      "pushed_at": "2026-08-06T22:45:51Z",
-      "recent_stars": 593,
-      "seen_count": 18,
+      "pushed_at": "2026-08-11T19:48:56Z",
+      "recent_stars": 571,
+      "seen_count": 19,
       "slug": "addyosmani/agent-skills",
-      "stars": 83404,
+      "stars": 86202,
       "topics": [
         "agent-skills",
         "antigravity",
@@ -1227,20 +1266,20 @@
       "window": "weekly"
     },
     "agegr/pi-web": {
-      "active": false,
+      "active": true,
       "description": "Web UI for the pi coding agent",
       "first_seen": "2026-07-21",
       "language": "TypeScript",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-08-11",
       "name": "pi-web",
-      "pushed_at": "2026-07-29T16:59:44Z",
-      "recent_stars": 1474,
-      "seen_count": 18,
+      "pushed_at": "2026-08-11T17:32:23Z",
+      "recent_stars": 2848,
+      "seen_count": 19,
       "slug": "agegr/pi-web",
-      "stars": 3223,
+      "stars": 4011,
       "topics": [],
       "url": "https://github.com/agegr/pi-web",
-      "window": "weekly"
+      "window": "monthly"
     },
     "alibaba/open-code-review": {
       "active": false,
@@ -1447,6 +1486,24 @@
       "url": "https://github.com/anthropics/claude-cookbooks",
       "window": "daily"
     },
+    "anthropics/skills": {
+      "active": true,
+      "description": "Public repository for Agent Skills",
+      "first_seen": "2026-08-11",
+      "language": "Python",
+      "last_seen": "2026-08-11",
+      "name": "skills",
+      "pushed_at": "2026-08-07T17:14:15Z",
+      "recent_stars": 468,
+      "seen_count": 1,
+      "slug": "anthropics/skills",
+      "stars": 168099,
+      "topics": [
+        "agent-skills"
+      ],
+      "url": "https://github.com/anthropics/skills",
+      "window": "daily"
+    },
     "antirez/ds4": {
       "active": false,
       "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
@@ -1624,20 +1681,40 @@
       "window": "daily"
     },
     "calesthio/OpenMontage": {
-      "active": false,
+      "active": true,
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "first_seen": "2026-07-06",
       "language": "Python",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-08-11",
       "name": "OpenMontage",
-      "pushed_at": "",
-      "recent_stars": 24525,
-      "seen_count": 44,
+      "pushed_at": "2026-08-03T09:19:09Z",
+      "recent_stars": 436,
+      "seen_count": 45,
       "slug": "calesthio/OpenMontage",
-      "stars": 42243,
-      "topics": [],
+      "stars": 47295,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "claude",
+        "copilot",
+        "cursor",
+        "elevenlabs",
+        "ffmpeg",
+        "flux",
+        "image-generation",
+        "open-source",
+        "openai",
+        "python",
+        "remotion",
+        "stable-diffusion",
+        "text-to-speech",
+        "text-to-video",
+        "video-generation",
+        "video-production"
+      ],
       "url": "https://github.com/calesthio/OpenMontage",
-      "window": "monthly"
+      "window": "daily"
     },
     "citrolabs/ego-lite": {
       "active": false,
@@ -1667,20 +1744,20 @@
       "window": "weekly"
     },
     "cloudflare/computer": {
-      "active": false,
+      "active": true,
       "description": "Give your agent a computer \ud83d\udc7e",
       "first_seen": "2026-08-05",
       "language": "TypeScript",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "computer",
-      "pushed_at": "2026-08-07T10:48:08Z",
-      "recent_stars": 2802,
-      "seen_count": 4,
+      "pushed_at": "2026-08-11T17:05:09Z",
+      "recent_stars": 6807,
+      "seen_count": 5,
       "slug": "cloudflare/computer",
-      "stars": 5201,
+      "stars": 7591,
       "topics": [],
       "url": "https://github.com/cloudflare/computer",
-      "window": "daily"
+      "window": "weekly"
     },
     "coreyhaines31/marketingskills": {
       "active": false,
@@ -1755,17 +1832,17 @@
       "window": "weekly"
     },
     "diegosouzapw/OmniRoute": {
-      "active": false,
+      "active": true,
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "first_seen": "2026-07-06",
       "language": "TypeScript",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "OmniRoute",
-      "pushed_at": "2026-08-07T11:12:29Z",
-      "recent_stars": 29383,
-      "seen_count": 69,
+      "pushed_at": "2026-08-11T22:03:29Z",
+      "recent_stars": 30445,
+      "seen_count": 70,
       "slug": "diegosouzapw/OmniRoute",
-      "stars": 42078,
+      "stars": 45902,
       "topics": [
         "a2a",
         "ai-agents",
@@ -1851,20 +1928,20 @@
       "window": "daily"
     },
     "earendil-works/pi": {
-      "active": false,
+      "active": true,
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "first_seen": "2026-07-19",
       "language": "TypeScript",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-11",
       "name": "pi",
-      "pushed_at": "2026-07-31T23:11:28Z",
-      "recent_stars": 4799,
-      "seen_count": 26,
+      "pushed_at": "2026-08-11T22:19:21Z",
+      "recent_stars": 17394,
+      "seen_count": 27,
       "slug": "earendil-works/pi",
-      "stars": 81469,
+      "stars": 87622,
       "topics": [],
       "url": "https://github.com/earendil-works/pi",
-      "window": "weekly"
+      "window": "monthly"
     },
     "earthtojake/text-to-cad": {
       "active": false,
@@ -1941,17 +2018,17 @@
       "window": "weekly"
     },
     "esengine/DeepSeek-Reasonix": {
-      "active": false,
+      "active": true,
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
       "first_seen": "2026-08-02",
       "language": "Go",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "DeepSeek-Reasonix",
-      "pushed_at": "2026-08-07T11:13:18Z",
-      "recent_stars": 888,
-      "seen_count": 11,
+      "pushed_at": "2026-08-11T21:39:22Z",
+      "recent_stars": 4109,
+      "seen_count": 12,
       "slug": "esengine/DeepSeek-Reasonix",
-      "stars": 32771,
+      "stars": 33958,
       "topics": [
         "agent",
         "agent-framework",
@@ -1971,20 +2048,20 @@
         "typescript"
       ],
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "window": "daily"
+      "window": "weekly"
     },
     "every-app/open-seo": {
-      "active": false,
+      "active": true,
       "description": "Open source alternative to Semrush and Ahrefs",
       "first_seen": "2026-07-20",
       "language": "TypeScript",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-11",
       "name": "open-seo",
-      "pushed_at": "2026-07-30T04:28:19Z",
-      "recent_stars": 6508,
-      "seen_count": 19,
+      "pushed_at": "2026-08-11T03:05:27Z",
+      "recent_stars": 7031,
+      "seen_count": 20,
       "slug": "every-app/open-seo",
-      "stars": 10741,
+      "stars": 11350,
       "topics": [
         "backlink-analysis",
         "google-search-console-mcp",
@@ -2121,6 +2198,26 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "window": "weekly"
     },
+    "google/skills": {
+      "active": true,
+      "description": "Agent Skills for Google products and technologies",
+      "first_seen": "2026-08-11",
+      "language": "Python",
+      "last_seen": "2026-08-11",
+      "name": "skills",
+      "pushed_at": "2026-08-11T18:42:41Z",
+      "recent_stars": 2159,
+      "seen_count": 1,
+      "slug": "google/skills",
+      "stars": 17773,
+      "topics": [
+        "google",
+        "googlecloud",
+        "skills"
+      ],
+      "url": "https://github.com/google/skills",
+      "window": "weekly"
+    },
     "handy-computer/transcribe.cpp": {
       "active": false,
       "description": " ggml speech-to-text inference for 16+ model families",
@@ -2170,6 +2267,22 @@
       ],
       "url": "https://github.com/harvard-edge/cs249r_book",
       "window": "weekly"
+    },
+    "harveyai/harvey-labs": {
+      "active": true,
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "first_seen": "2026-08-11",
+      "language": "Python",
+      "last_seen": "2026-08-11",
+      "name": "harvey-labs",
+      "pushed_at": "2026-08-11T01:06:00Z",
+      "recent_stars": 24,
+      "seen_count": 1,
+      "slug": "harveyai/harvey-labs",
+      "stars": 1071,
+      "topics": [],
+      "url": "https://github.com/harveyai/harvey-labs",
+      "window": "daily"
     },
     "hesreallyhim/awesome-claude-code": {
       "active": false,
@@ -2233,17 +2346,17 @@
       "window": "daily"
     },
     "huangruiteng/loopx": {
-      "active": false,
+      "active": true,
       "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
       "first_seen": "2026-08-05",
       "language": "Python",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "loopx",
-      "pushed_at": "2026-08-07T10:01:06Z",
-      "recent_stars": 847,
-      "seen_count": 5,
+      "pushed_at": "2026-08-11T22:22:58Z",
+      "recent_stars": 2947,
+      "seen_count": 6,
       "slug": "huangruiteng/loopx",
-      "stars": 3207,
+      "stars": 4154,
       "topics": [
         "agent-control-plane",
         "agent-ops",
@@ -2255,20 +2368,20 @@
         "workflow-automation"
       ],
       "url": "https://github.com/huangruiteng/loopx",
-      "window": "daily"
+      "window": "weekly"
     },
     "huggingface/speech-to-speech": {
-      "active": false,
+      "active": true,
       "description": "Build local voice agents with open-source models",
       "first_seen": "2026-07-06",
       "language": "Python",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "speech-to-speech",
-      "pushed_at": "2026-08-07T10:18:43Z",
-      "recent_stars": 6090,
-      "seen_count": 32,
+      "pushed_at": "2026-08-11T21:44:07Z",
+      "recent_stars": 6179,
+      "seen_count": 33,
       "slug": "huggingface/speech-to-speech",
-      "stars": 11521,
+      "stars": 12242,
       "topics": [
         "ai",
         "assistant",
@@ -2283,19 +2396,70 @@
       "url": "https://github.com/huggingface/speech-to-speech",
       "window": "monthly"
     },
+    "huggingface/transformers": {
+      "active": true,
+      "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "first_seen": "2026-08-11",
+      "language": "Python",
+      "last_seen": "2026-08-11",
+      "name": "transformers",
+      "pushed_at": "2026-08-11T22:54:35Z",
+      "recent_stars": 69,
+      "seen_count": 1,
+      "slug": "huggingface/transformers",
+      "stars": 163782,
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "url": "https://github.com/huggingface/transformers",
+      "window": "daily"
+    },
     "iOfficeAI/OfficeCLI": {
-      "active": false,
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "active": true,
+      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "first_seen": "2026-07-07",
       "language": "C#",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "OfficeCLI",
-      "pushed_at": "",
-      "recent_stars": 17847,
-      "seen_count": 62,
+      "pushed_at": "2026-08-04T13:15:13Z",
+      "recent_stars": 13309,
+      "seen_count": 63,
       "slug": "iOfficeAI/OfficeCLI",
-      "stars": 26386,
-      "topics": [],
+      "stars": 27712,
+      "topics": [
+        "agent",
+        "ai",
+        "claude-code",
+        "cli",
+        "codex",
+        "docx",
+        "excel",
+        "office",
+        "openclaw",
+        "pptx",
+        "presentation",
+        "skills",
+        "word",
+        "xlsx"
+      ],
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "window": "monthly"
     },
@@ -2368,17 +2532,17 @@
       "window": "daily"
     },
     "kangarooking/cangjie-skill": {
-      "active": false,
+      "active": true,
       "description": "\u628a\u4e66\u3001\u957f\u89c6\u9891\u3001\u64ad\u5ba2\u7b49\u9ad8\u4ef7\u503c\u5185\u5bb9\u84b8\u998f\u6210\u53ef\u6267\u884c\u7684 Agent Skills",
       "first_seen": "2026-07-16",
       "language": "Python",
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-08-11",
       "name": "cangjie-skill",
-      "pushed_at": "2026-07-20T03:46:25Z",
-      "recent_stars": 1342,
-      "seen_count": 12,
+      "pushed_at": "2026-08-09T13:34:40Z",
+      "recent_stars": 4632,
+      "seen_count": 13,
       "slug": "kangarooking/cangjie-skill",
-      "stars": 4241,
+      "stars": 7241,
       "topics": [
         "agent-workflows",
         "ai-skills",
@@ -2390,7 +2554,7 @@
         "templates"
       ],
       "url": "https://github.com/kangarooking/cangjie-skill",
-      "window": "weekly"
+      "window": "monthly"
     },
     "karakeep-app/karakeep": {
       "active": false,
@@ -2433,17 +2597,17 @@
       "window": "monthly"
     },
     "koala73/worldmonitor": {
-      "active": false,
+      "active": true,
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "first_seen": "2026-07-21",
       "language": "TypeScript",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "worldmonitor",
-      "pushed_at": "2026-08-07T10:55:14Z",
-      "recent_stars": 18274,
-      "seen_count": 35,
+      "pushed_at": "2026-08-11T18:55:55Z",
+      "recent_stars": 19125,
+      "seen_count": 36,
       "slug": "koala73/worldmonitor",
-      "stars": 79541,
+      "stars": 80773,
       "topics": [
         "agent",
         "ai",
@@ -2552,17 +2716,17 @@
       "window": "daily"
     },
     "lyogavin/airllm": {
-      "active": false,
+      "active": true,
       "description": "AirLLM 70B inference with single 4GB GPU",
       "first_seen": "2026-07-18",
       "language": "Jupyter Notebook",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "airllm",
-      "pushed_at": "2026-08-06T08:40:04Z",
-      "recent_stars": 5222,
-      "seen_count": 15,
+      "pushed_at": "2026-08-11T07:09:59Z",
+      "recent_stars": 4042,
+      "seen_count": 16,
       "slug": "lyogavin/airllm",
-      "stars": 29778,
+      "stars": 30762,
       "topics": [
         "chinese-llm",
         "chinese-nlp",
@@ -2751,17 +2915,17 @@
       "window": "daily"
     },
     "msitarzewski/agency-agents": {
-      "active": false,
+      "active": true,
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "first_seen": "2026-07-06",
       "language": "Shell",
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-08-11",
       "name": "agency-agents",
-      "pushed_at": "2026-07-17T15:25:48Z",
-      "recent_stars": 744,
-      "seen_count": 12,
+      "pushed_at": "2026-08-06T13:29:47Z",
+      "recent_stars": 971,
+      "seen_count": 13,
       "slug": "msitarzewski/agency-agents",
-      "stars": 134675,
+      "stars": 143127,
       "topics": [],
       "url": "https://github.com/msitarzewski/agency-agents",
       "window": "daily"
@@ -3111,18 +3275,55 @@
       "url": "https://github.com/ruvnet/RuView",
       "window": "weekly"
     },
+    "semantica-agi/semantica": {
+      "active": true,
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "first_seen": "2026-08-11",
+      "language": "Python",
+      "last_seen": "2026-08-11",
+      "name": "semantica",
+      "pushed_at": "2026-08-11T17:15:00Z",
+      "recent_stars": 884,
+      "seen_count": 1,
+      "slug": "semantica-agi/semantica",
+      "stars": 4836,
+      "topics": [
+        "agent-memory",
+        "ai",
+        "ai-governance",
+        "ai-infrastructure",
+        "artificial-intelligence",
+        "context-engineering",
+        "context-graphs",
+        "data-engineering",
+        "decision-intelligence",
+        "developer-tools",
+        "explainable-ai",
+        "generative-ai",
+        "graph-rag",
+        "knowledge-graph",
+        "llm",
+        "ontology",
+        "provenance",
+        "python",
+        "reasoning",
+        "semantic-search"
+      ],
+      "url": "https://github.com/semantica-agi/semantica",
+      "window": "daily"
+    },
     "stablyai/orca": {
-      "active": false,
+      "active": true,
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "first_seen": "2026-07-06",
       "language": "TypeScript",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "orca",
-      "pushed_at": "2026-08-07T10:13:14Z",
-      "recent_stars": 26353,
-      "seen_count": 69,
+      "pushed_at": "2026-08-11T23:16:25Z",
+      "recent_stars": 881,
+      "seen_count": 70,
       "slug": "stablyai/orca",
-      "stars": 39333,
+      "stars": 42719,
       "topics": [
         "ade",
         "agent-ide",
@@ -3144,7 +3345,7 @@
         "yc-backed"
       ],
       "url": "https://github.com/stablyai/orca",
-      "window": "monthly"
+      "window": "daily"
     },
     "steipete/CodexBar": {
       "active": false,
@@ -3168,17 +3369,17 @@
       "window": "weekly"
     },
     "tirth8205/code-review-graph": {
-      "active": false,
+      "active": true,
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "first_seen": "2026-07-17",
       "language": "Python",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "code-review-graph",
       "pushed_at": "2026-08-02T12:45:39Z",
-      "recent_stars": 237,
-      "seen_count": 29,
+      "recent_stars": 10435,
+      "seen_count": 30,
       "slug": "tirth8205/code-review-graph",
-      "stars": 29282,
+      "stars": 29815,
       "topics": [
         "ai-coding",
         "claude",
@@ -3194,7 +3395,7 @@
         "tree-sitter"
       ],
       "url": "https://github.com/tirth8205/code-review-graph",
-      "window": "daily"
+      "window": "monthly"
     },
     "topoteretes/cognee": {
       "active": false,
@@ -3284,17 +3485,17 @@
       "window": "daily"
     },
     "tt-a1i/archify": {
-      "active": false,
+      "active": true,
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
       "first_seen": "2026-07-10",
       "language": "HTML",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "archify",
-      "pushed_at": "2026-08-06T02:35:24Z",
-      "recent_stars": 7074,
-      "seen_count": 27,
+      "pushed_at": "2026-08-11T15:37:25Z",
+      "recent_stars": 7900,
+      "seen_count": 28,
       "slug": "tt-a1i/archify",
-      "stars": 10022,
+      "stars": 11414,
       "topics": [
         "agent-skills",
         "anthropic",
@@ -3346,6 +3547,22 @@
       ],
       "url": "https://github.com/uber/ADR",
       "window": "daily"
+    },
+    "unclebob/swarm-forge": {
+      "active": true,
+      "description": "A simple tool for coordinating several AI agents.",
+      "first_seen": "2026-08-11",
+      "language": "Clojure",
+      "last_seen": "2026-08-11",
+      "name": "swarm-forge",
+      "pushed_at": "2026-08-11T20:36:00Z",
+      "recent_stars": 627,
+      "seen_count": 1,
+      "slug": "unclebob/swarm-forge",
+      "stars": 2171,
+      "topics": [],
+      "url": "https://github.com/unclebob/swarm-forge",
+      "window": "weekly"
     },
     "unclecode/crawl4ai": {
       "active": false,
@@ -3417,20 +3634,57 @@
       "window": "daily"
     },
     "virgiliojr94/book-to-skill": {
-      "active": false,
+      "active": true,
       "description": "Turn any technical book PDF into a Claude Code skill \u2014 ready to study, reference, and use while you work.",
       "first_seen": "2026-07-28",
       "language": "Python",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "book-to-skill",
-      "pushed_at": "2026-08-05T19:24:45Z",
-      "recent_stars": 3903,
-      "seen_count": 21,
+      "pushed_at": "2026-08-11T21:56:27Z",
+      "recent_stars": 4113,
+      "seen_count": 22,
       "slug": "virgiliojr94/book-to-skill",
-      "stars": 17922,
+      "stars": 20490,
       "topics": [],
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "window": "weekly"
+    },
+    "vitali87/code-graph-rag": {
+      "active": true,
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "first_seen": "2026-08-11",
+      "language": "Python",
+      "last_seen": "2026-08-11",
+      "name": "code-graph-rag",
+      "pushed_at": "2026-08-11T23:15:26Z",
+      "recent_stars": 339,
+      "seen_count": 1,
+      "slug": "vitali87/code-graph-rag",
+      "stars": 3798,
+      "topics": [
+        "ai",
+        "ast",
+        "claude-code",
+        "code-analysis",
+        "code-understanding",
+        "codebase-search",
+        "developer-tools",
+        "graph-database",
+        "knowledge-graph",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "memgraph",
+        "monorepo",
+        "multi-language",
+        "python",
+        "rag",
+        "retrieval-augmented-generation",
+        "semantic-search",
+        "tree-sitter"
+      ],
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "window": "daily"
     },
     "vxcontrol/pentagi": {
       "active": false,
@@ -3521,17 +3775,17 @@
       "window": "monthly"
     },
     "zhaoxuya520/reverse-skill": {
-      "active": false,
+      "active": true,
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
       "first_seen": "2026-07-31",
       "language": "PowerShell",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-11",
       "name": "reverse-skill",
-      "pushed_at": "2026-08-06T08:08:15Z",
-      "recent_stars": 10091,
-      "seen_count": 15,
+      "pushed_at": "2026-08-11T14:09:26Z",
+      "recent_stars": 8182,
+      "seen_count": 16,
       "slug": "zhaoxuya520/reverse-skill",
-      "stars": 20276,
+      "stars": 23941,
       "topics": [],
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "window": "weekly"
