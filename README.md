@@ -17,7 +17,7 @@ Rows are grouped by what the tool is. Within each group, starred GitHub repos ar
 
 Auto-updated from GitHub Trending. Current rows are repos trending now; archive rows are kept after they fall out so references are not lost.
 
-Generated: `2026-10-05T23:17:10Z`
+Generated: `2026-10-06T11:17:10Z`
 
 ### Current Trending Windows
 
@@ -26,13 +26,15 @@ Generated: `2026-10-05T23:17:10Z`
 
 | Repo | Window | Language | ⭐ Stars | 🔥 Recent | Why it matched | Last seen |
 |---|---|---|---:|---:|---|---:|
-| [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | daily | JavaScript | ⭐ 4.2k | 🔥 +1444 | Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles ar… | 2026-10-05 |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | daily | Python | ⭐ 91.8k | 🔥 +1156 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongS… | 2026-10-05 |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | daily | Python | ⭐ 64.0k | 🔥 +758 | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and p… | 2026-10-05 |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | daily | Shell | ⭐ 157.2k | 🔥 +687 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to re… | 2026-10-05 |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | daily | TypeScript | ⭐ 96.6k | 🔥 +534 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it… | 2026-10-05 |
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | daily | Python | ⭐ 17.4k | 🔥 +456 | Give your agent CAD superpowers. | 2026-10-05 |
-| [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) | daily | TypeScript | ⭐ 11.0k | 🔥 +102 | Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company… | 2026-10-05 |
+| [morluto/rea](https://github.com/morluto/rea) | daily | TypeScript | ⭐ 6.7k | 🔥 +2963 | Reverse engineer anything with agents, from app behavior down to native binaries. | 2026-10-06 |
+| [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | daily | JavaScript | ⭐ 4.8k | 🔥 +1419 | Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles ar… | 2026-10-06 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | daily | JavaScript | ⭐ 77.3k | 🔥 +947 | The design language that makes your AI harness better at design. | 2026-10-06 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | daily | Shell | ⭐ 157.5k | 🔥 +621 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to re… | 2026-10-06 |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | daily | Python | ⭐ 17.7k | 🔥 +620 | Give your agent CAD superpowers. | 2026-10-06 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | daily | TypeScript | ⭐ 96.9k | 🔥 +536 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it… | 2026-10-06 |
+| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | daily | Cuda | ⭐ 8.5k | 🔥 +363 | DeepGEMM: clean and efficient BLAS kernel library on GPU | 2026-10-06 |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | daily | Python | ⭐ 54.1k | 🔥 +318 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. | 2026-10-06 |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | daily | HTML | ⭐ 43.6k | 🔥 +227 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-containe… | 2026-10-06 |
 
 </details>
 
@@ -41,21 +43,15 @@ Generated: `2026-10-05T23:17:10Z`
 
 | Repo | Window | Language | ⭐ Stars | 🔥 Recent | Why it matched | Last seen |
 |---|---|---|---:|---:|---|---:|
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | weekly | Python | ⭐ 53.7k | 🔥 +14689 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictat… | 2026-10-05 |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | weekly | Python | ⭐ 45.9k | 🔥 +10623 | Hindsight: Agent Memory That Learns | 2026-10-05 |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | weekly | Python | ⭐ 64.7k | 🔥 +4904 | Learn it. Build it. Ship it for others. | 2026-10-05 |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | weekly | Python | ⭐ 91.8k | 🔥 +4789 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongS… | 2026-10-05 |
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | weekly | TypeScript | ⭐ 5.2k | 🔥 +4251 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned… | 2026-10-05 |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | weekly | JavaScript | ⭐ 77.1k | 🔥 +4242 | The design language that makes your AI harness better at design. | 2026-10-05 |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | weekly | TypeScript | ⭐ 57.3k | 🔥 +3096 | Write HTML. Render video. Built for agents. | 2026-10-05 |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | weekly | Python | ⭐ 128.6k | 🔥 +2291 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. | 2026-10-05 |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | weekly | Shell | ⭐ 157.2k | 🔥 +1866 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to re… | 2026-10-05 |
-| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | weekly | Python | ⭐ 7.0k | 🔥 +1496 | A smarter, self-hosted AI assistant — multi-user, multi-agent. | 2026-10-05 |
-| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | weekly | Python | ⭐ 27.7k | 🔥 +1024 | 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references,… | 2026-10-05 |
-| [cursor/plugins](https://github.com/cursor/plugins) | weekly | TypeScript | ⭐ 10.0k | 🔥 +994 | Cursor plugin specification and official plugins | 2026-10-05 |
-| [tile-ai/tilelang](https://github.com/tile-ai/tilelang) | weekly | Python | ⭐ 8.4k | 🔥 +839 | Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels | 2026-10-05 |
-| [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) | weekly | Go | ⭐ 4.8k | 🔥 +708 | A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restar… | 2026-10-05 |
-| [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) | weekly | TypeScript | ⭐ 11.0k | 🔥 +655 | Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company… | 2026-10-05 |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | weekly | Rust | ⭐ 15.1k | 🔥 +5915 | OpenShell is the safe, private runtime for autonomous AI agents. | 2026-10-06 |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | weekly | Python | ⭐ 92.3k | 🔥 +5703 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongS… | 2026-10-06 |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | weekly | TypeScript | ⭐ 5.3k | 🔥 +3776 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned… | 2026-10-06 |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | weekly | TypeScript | ⭐ 57.6k | 🔥 +3342 | Write HTML. Render video. Built for agents. | 2026-10-06 |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | weekly | Python | ⭐ 38.7k | 🔥 +2860 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 2026-10-06 |
+| [byoungd/up](https://github.com/byoungd/up) | weekly | JavaScript | ⭐ 67.4k | 🔥 +2827 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学… | 2026-10-06 |
+| [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | weekly | JavaScript | ⭐ 4.8k | 🔥 +2702 | Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles ar… | 2026-10-06 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | weekly | TypeScript | ⭐ 96.9k | 🔥 +1759 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it… | 2026-10-06 |
+| [cursor/plugins](https://github.com/cursor/plugins) | weekly | TypeScript | ⭐ 10.0k | 🔥 +1042 | Cursor plugin specification and official plugins | 2026-10-06 |
 
 </details>
 
@@ -64,22 +60,22 @@ Generated: `2026-10-05T23:17:10Z`
 
 | Repo | Window | Language | ⭐ Stars | 🔥 Recent | Why it matched | Last seen |
 |---|---|---|---:|---:|---|---:|
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | monthly | JavaScript | ⭐ 78.1k | 🔥 +30184 | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. | 2026-10-05 |
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | monthly | Python | ⭐ 53.9k | 🔥 +26627 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. | 2026-10-05 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | monthly | JavaScript | ⭐ 273.6k | 🔥 +26306 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development… | 2026-10-05 |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | monthly | Python | ⭐ 45.9k | 🔥 +23232 | Hindsight: Agent Memory That Learns | 2026-10-05 |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | monthly | Go | ⭐ 43.9k | 🔥 +22080 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipeline… | 2026-10-05 |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | monthly | Go | ⭐ 32.2k | 🔥 +10912 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-… | 2026-10-05 |
-| [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | monthly | TypeScript | ⭐ 30.9k | 🔥 +6502 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any cu… | 2026-10-05 |
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | monthly | Rust | ⭐ 15.0k | 🔥 +6356 | OpenShell is the safe, private runtime for autonomous AI agents. | 2026-10-05 |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | monthly | TypeScript | ⭐ 149.5k | 🔥 +5996 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster… | 2026-10-05 |
-| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | monthly | Python | ⭐ 7.0k | 🔥 +5298 | A smarter, self-hosted AI assistant — multi-user, multi-agent. | 2026-10-05 |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | monthly | TypeScript | ⭐ 25.5k | 🔥 +5116 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and e… | 2026-10-05 |
-| [cursor/plugins](https://github.com/cursor/plugins) | monthly | TypeScript | ⭐ 10.0k | 🔥 +3095 | Cursor plugin specification and official plugins | 2026-10-05 |
-| [superdesigndev/treg](https://github.com/superdesigndev/treg) | monthly | Python | ⭐ 4.2k | 🔥 +2955 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn | 2026-10-05 |
-| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | monthly | Go | ⭐ 4.4k | 🔥 +2515 | Agent Substrate: the core system | 2026-10-05 |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | monthly | Python | ⭐ 26.2k | 🔥 +2297 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | 2026-10-05 |
-| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | monthly | Rust | ⭐ 8.8k | 🔥 +2049 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | 2026-10-05 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | monthly | JavaScript | ⭐ 78.4k | 🔥 +29482 | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. | 2026-10-06 |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | monthly | JavaScript | ⭐ 156.4k | 🔥 +29162 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 2026-10-06 |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | monthly | Python | ⭐ 54.1k | 🔥 +26953 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. | 2026-10-06 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | monthly | JavaScript | ⭐ 273.9k | 🔥 +25740 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development… | 2026-10-06 |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | monthly | Python | ⭐ 46.1k | 🔥 +23453 | Hindsight: Agent Memory That Learns | 2026-10-06 |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | monthly | Go | ⭐ 44.0k | 🔥 +22242 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipeline… | 2026-10-06 |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | monthly | Go | ⭐ 32.2k | 🔥 +10976 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-… | 2026-10-06 |
+| [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | monthly | TypeScript | ⭐ 31.1k | 🔥 +6667 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any cu… | 2026-10-06 |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | monthly | Rust | ⭐ 15.1k | 🔥 +6534 | OpenShell is the safe, private runtime for autonomous AI agents. | 2026-10-06 |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | monthly | TypeScript | ⭐ 149.6k | 🔥 +6009 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster… | 2026-10-06 |
+| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | monthly | Python | ⭐ 7.2k | 🔥 +5450 | A smarter, self-hosted AI assistant — multi-user, multi-agent. | 2026-10-06 |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | monthly | TypeScript | ⭐ 25.5k | 🔥 +5191 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and e… | 2026-10-06 |
+| [cursor/plugins](https://github.com/cursor/plugins) | monthly | TypeScript | ⭐ 10.0k | 🔥 +3201 | Cursor plugin specification and official plugins | 2026-10-06 |
+| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | monthly | Go | ⭐ 4.4k | 🔥 +2571 | Agent Substrate: the core system | 2026-10-06 |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | monthly | Python | ⭐ 26.2k | 🔥 +2343 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | 2026-10-06 |
+| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | monthly | Rust | ⭐ 8.9k | 🔥 +2098 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | 2026-10-06 |
 
 </details>
 
@@ -87,8 +83,16 @@ Generated: `2026-10-05T23:17:10Z`
 
 | Repo | Window | Language | ⭐ Stars | 🔥 Recent | Why it matched | Last seen |
 |---|---|---|---:|---:|---|---:|
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | weekly | JavaScript | ⭐ 155.5k | 🔥 +7948 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 2026-10-05 |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | weekly | Python | ⭐ 53.7k | 🔥 +14689 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictat… | 2026-10-05 |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | weekly | Python | ⭐ 64.7k | 🔥 +4904 | Learn it. Build it. Ship it for others. | 2026-10-05 |
+| [superdesigndev/treg](https://github.com/superdesigndev/treg) | monthly | Python | ⭐ 4.2k | 🔥 +2955 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn | 2026-10-05 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | weekly | Python | ⭐ 128.6k | 🔥 +2291 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. | 2026-10-05 |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | weekly | Python | ⭐ 27.7k | 🔥 +1024 | 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references,… | 2026-10-05 |
+| [tile-ai/tilelang](https://github.com/tile-ai/tilelang) | weekly | Python | ⭐ 8.4k | 🔥 +839 | Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels | 2026-10-05 |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | daily | Python | ⭐ 64.0k | 🔥 +758 | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and p… | 2026-10-05 |
+| [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) | weekly | Go | ⭐ 4.8k | 🔥 +708 | A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restar… | 2026-10-05 |
 | [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | daily | JavaScript | ⭐ 1.3k | 🔥 +232 | Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cu… | 2026-10-05 |
+| [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) | daily | TypeScript | ⭐ 11.0k | 🔥 +102 | Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company… | 2026-10-05 |
 | [trycua/cua](https://github.com/trycua/cua) | monthly | Rust | ⭐ 28.0k | 🔥 +5879 | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data gen… | 2026-10-04 |
 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | monthly | Python | ⭐ 19.3k | 🔥 +3460 | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, dat… | 2026-10-04 |
 | [obra/superpowers](https://github.com/obra/superpowers) | daily | Shell | ⭐ 295.1k | 🔥 +446 | An agentic skills framework & software development methodology that works. | 2026-10-04 |
@@ -115,8 +119,6 @@ Generated: `2026-10-05T23:17:10Z`
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | weekly | JavaScript | ⭐ 23.3k | 🔥 +3311 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | 2026-09-30 |
 | [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | monthly | Python | ⭐ 29.7k | 🔥 +3209 | Community plugin to control Blender 3D with any LLM of your choice | 2026-09-30 |
 | [t8y2/dbx](https://github.com/t8y2/dbx) | daily | Rust | ⭐ 23.1k | 🔥 +1133 | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoD… | 2026-09-30 |
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | daily | Python | ⭐ 38.1k | 🔥 +1095 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 2026-09-30 |
-| [byoungd/up](https://github.com/byoungd/up) | daily | JavaScript | ⭐ 66.4k | 🔥 +714 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学… | 2026-09-30 |
 | [oblien/openship](https://github.com/oblien/openship) | daily | TypeScript | ⭐ 14.1k | 🔥 +582 | Self-hosted deployment platform | 2026-09-30 |
 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | weekly | Shell | ⭐ 3.2k | 🔥 +210 | Bonsai Demo | 2026-09-30 |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | daily | TypeScript | ⭐ 391.0k | 🔥 +136 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | 2026-09-30 |
@@ -131,12 +133,6 @@ Generated: `2026-10-05T23:17:10Z`
 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | monthly | Python | ⭐ 7.4k | 🔥 +4232 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. | 2026-09-27 |
 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | monthly | TypeScript | ⭐ 4.1k | 🔥 +3489 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk… | 2026-09-27 |
 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | daily | PowerShell | ⭐ 38.2k | 🔥 +361 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-dema… | 2026-09-27 |
-| [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | daily | Python | ⭐ 4.9k | 🔥 +357 | A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture s… | 2026-09-27 |
-| [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) | daily | TypeScript | ⭐ 7.6k | 🔥 +168 | Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices) | 2026-09-27 |
-| [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | daily | C++ | ⭐ 200.5k | 🔥 +46 | An Open Source Machine Learning Framework for Everyone | 2026-09-27 |
-| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | weekly | Python | ⭐ 51.0k | 🔥 +2481 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 | 2026-09-25 |
-| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | weekly | TypeScript | ⭐ 70.4k | 🔥 +1415 | Spec-driven development (SDD) for AI coding assistants. | 2026-09-25 |
-| [cline/cline](https://github.com/cline/cline) | weekly | TypeScript | ⭐ 69.3k | 🔥 +855 | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | 2026-09-25 |
 <!-- agent-kit-board:trending:end -->
 
 ## 🚀 Start Here
