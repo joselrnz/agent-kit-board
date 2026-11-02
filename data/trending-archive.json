@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T00:17:10Z",
+  "checked_at": "2026-11-02T12:17:09Z",
   "repos": {
     "1jehuang/jcode": {
       "active": false,
@@ -103,9 +103,9 @@
       "name": "claude-seo",
       "pushed_at": "2026-11-01T06:07:26Z",
       "recent_stars": 5034,
-      "seen_count": 16,
+      "seen_count": 17,
       "slug": "AgriciDaniel/claude-seo",
-      "stars": 25528,
+      "stars": 25811,
       "topics": [
         "ai",
         "ai-seo",
@@ -402,7 +402,7 @@
       "window": "weekly"
     },
     "CopilotKit/OpenBot": {
-      "active": true,
+      "active": false,
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "first_seen": "2026-10-29",
       "language": "TypeScript",
@@ -462,6 +462,43 @@
       "stars": 37833,
       "topics": [],
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "window": "daily"
+    },
+    "D4Vinci/Scrapling": {
+      "active": true,
+      "description": "\ud83d\udd77\ufe0f The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "first_seen": "2026-11-02",
+      "language": "Python",
+      "last_seen": "2026-11-02",
+      "name": "Scrapling",
+      "pushed_at": "2026-11-01T18:00:03Z",
+      "recent_stars": 892,
+      "seen_count": 1,
+      "slug": "D4Vinci/Scrapling",
+      "stars": 92148,
+      "topics": [
+        "ai",
+        "ai-scraping",
+        "automation",
+        "crawler",
+        "crawling",
+        "crawling-python",
+        "data",
+        "data-extraction",
+        "mcp",
+        "mcp-server",
+        "playwright",
+        "python",
+        "scraping",
+        "selectors",
+        "stealth",
+        "web-scraper",
+        "web-scraping",
+        "web-scraping-python",
+        "webscraping",
+        "xpath"
+      ],
+      "url": "https://github.com/D4Vinci/Scrapling",
       "window": "daily"
     },
     "DayuanJiang/next-ai-draw-io": {
@@ -579,10 +616,10 @@
       "last_seen": "2026-11-02",
       "name": "Claude-Code-Game-Studios",
       "pushed_at": "2026-10-19T02:43:42Z",
-      "recent_stars": 967,
-      "seen_count": 6,
+      "recent_stars": 1380,
+      "seen_count": 7,
       "slug": "Donchitos/Claude-Code-Game-Studios",
-      "stars": 32250,
+      "stars": 32995,
       "topics": [
         "ai-agents",
         "ai-assisted-development",
@@ -704,11 +741,11 @@
       "language": "Python",
       "last_seen": "2026-11-02",
       "name": "FreeToken",
-      "pushed_at": "2026-10-30T11:19:15Z",
-      "recent_stars": 242,
-      "seen_count": 4,
+      "pushed_at": "2026-11-02T00:36:31Z",
+      "recent_stars": 654,
+      "seen_count": 5,
       "slug": "FlashML-org/FreeToken",
-      "stars": 15389,
+      "stars": 15753,
       "topics": [
         "deepseek-v4",
         "edge",
@@ -1033,11 +1070,11 @@
       "language": "TypeScript",
       "last_seen": "2026-11-02",
       "name": "thinkrail",
-      "pushed_at": "2026-11-01T23:56:22Z",
+      "pushed_at": "2026-11-02T11:51:40Z",
       "recent_stars": 5760,
-      "seen_count": 14,
+      "seen_count": 15,
       "slug": "JetBrains/thinkrail",
-      "stars": 6967,
+      "stars": 7093,
       "topics": [
         "agent",
         "agent-skills",
@@ -1163,9 +1200,9 @@
       "name": "taste-skill",
       "pushed_at": "2026-10-31T07:59:58Z",
       "recent_stars": 5336,
-      "seen_count": 16,
+      "seen_count": 17,
       "slug": "Leonxlnx/taste-skill",
-      "stars": 107771,
+      "stars": 108288,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -1478,9 +1515,9 @@
       "name": "hallmark",
       "pushed_at": "2026-10-29T16:50:04Z",
       "recent_stars": 11566,
-      "seen_count": 83,
+      "seen_count": 84,
       "slug": "Nutlope/hallmark",
-      "stars": 44858,
+      "stars": 45514,
       "topics": [],
       "url": "https://github.com/Nutlope/hallmark",
       "window": "weekly"
@@ -2001,9 +2038,9 @@
       "name": "TradingAgents",
       "pushed_at": "2026-10-27T08:43:04Z",
       "recent_stars": 5432,
-      "seen_count": 29,
+      "seen_count": 30,
       "slug": "TauricResearch/TradingAgents",
-      "stars": 119520,
+      "stars": 119790,
       "topics": [
         "agent",
         "finance",
@@ -2361,7 +2398,7 @@
       "window": "daily"
     },
     "YuJunZhiXue/dsh-purge": {
-      "active": true,
+      "active": false,
       "description": "DeepSeek Harness \u7834\u7532\uff1a\u8ba9\u6240\u6709\u6a21\u578b\u90fd\u80fd\u7834\u7532\uff0c\u4e0d\u540c\u6a21\u578b\u53ef\u6362\u4e0d\u540c\u63d0\u793a\u8bcd\uff1b\u9ed8\u8ba4\u63d0\u793a\u8bcd\u9762\u5411\u56fd\u6a21\u300c\u5c0f\u7801\u9171\u300d\u3002Jailbreak for every model \u2014 swap prompts per model. \u6c42 Star \u6536\u85cf \u2b50 \u5982\u8981\u4e8c\u5f00\uff0c\u8bf7\u67e5\u770b\u7f72\u540d\u8981\u6c42\u90e8\u5206",
       "first_seen": "2026-10-19",
       "language": "JavaScript",
@@ -2543,11 +2580,11 @@
       "language": "JavaScript",
       "last_seen": "2026-11-02",
       "name": "ECC",
-      "pushed_at": "2026-10-30T03:06:42Z",
+      "pushed_at": "2026-11-02T04:56:08Z",
       "recent_stars": 6299,
-      "seen_count": 136,
+      "seen_count": 137,
       "slug": "affaan-m/ECC",
-      "stars": 294798,
+      "stars": 295149,
       "topics": [
         "ai-agents",
         "anthropic",
@@ -2968,7 +3005,7 @@
       "window": "weekly"
     },
     "anomalyco/hex": {
-      "active": true,
+      "active": false,
       "description": "Local voice dictation for mac, windows and linux",
       "first_seen": "2026-11-01",
       "language": "Rust",
@@ -3098,16 +3135,12 @@
       "language": "Python",
       "last_seen": "2026-11-02",
       "name": "claude-plugins-official",
-      "pushed_at": "2026-11-01T07:28:23Z",
+      "pushed_at": "",
       "recent_stars": 8625,
-      "seen_count": 49,
+      "seen_count": 50,
       "slug": "anthropics/claude-plugins-official",
-      "stars": 45717,
-      "topics": [
-        "claude-code",
-        "mcp",
-        "skills"
-      ],
+      "stars": 45774,
+      "topics": [],
       "url": "https://github.com/anthropics/claude-plugins-official",
       "window": "monthly"
     },
@@ -3118,11 +3151,11 @@
       "language": "Python",
       "last_seen": "2026-11-02",
       "name": "knowledge-work-plugins",
-      "pushed_at": "2026-11-01T07:25:15Z",
+      "pushed_at": "2026-11-02T07:26:44Z",
       "recent_stars": 8486,
-      "seen_count": 90,
+      "seen_count": 91,
       "slug": "anthropics/knowledge-work-plugins",
-      "stars": 34361,
+      "stars": 34431,
       "topics": [],
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "window": "monthly"
@@ -3136,9 +3169,9 @@
       "name": "skills",
       "pushed_at": "2026-10-28T19:20:39Z",
       "recent_stars": 2600,
-      "seen_count": 21,
+      "seen_count": 22,
       "slug": "anthropics/skills",
-      "stars": 186360,
+      "stars": 186589,
       "topics": [
         "agent-skills"
       ],
@@ -3319,7 +3352,7 @@
       "window": "monthly"
     },
     "beenuar/AiSOC": {
-      "active": true,
+      "active": false,
       "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
       "first_seen": "2026-11-01",
       "language": "Python",
@@ -3702,9 +3735,9 @@
       "name": "security-audit-skill",
       "pushed_at": "2026-09-14T19:29:02Z",
       "recent_stars": 10069,
-      "seen_count": 65,
+      "seen_count": 66,
       "slug": "cloudflare/security-audit-skill",
-      "stars": 56356,
+      "stars": 56892,
       "topics": [],
       "url": "https://github.com/cloudflare/security-audit-skill",
       "window": "weekly"
@@ -3795,7 +3828,7 @@
       "window": "daily"
     },
     "cursor/plugins": {
-      "active": true,
+      "active": false,
       "description": "Cursor plugin specification and official plugins",
       "first_seen": "2026-08-14",
       "language": "TypeScript",
@@ -3885,7 +3918,7 @@
       "window": "weekly"
     },
     "debpalash/VoiceStudio": {
-      "active": true,
+      "active": false,
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "first_seen": "2026-09-01",
       "language": "Python",
@@ -4207,22 +4240,12 @@
       "language": "Python",
       "last_seen": "2026-11-02",
       "name": "text-to-cad",
-      "pushed_at": "2026-11-01T23:03:40Z",
+      "pushed_at": "",
       "recent_stars": 8238,
-      "seen_count": 79,
+      "seen_count": 80,
       "slug": "earthtojake/text-to-cad",
-      "stars": 24736,
-      "topics": [
-        "agents",
-        "ai-agents",
-        "cad",
-        "mechanical-engineering",
-        "robotics",
-        "step",
-        "stl",
-        "stp",
-        "text-to-cad"
-      ],
+      "stars": 24916,
+      "topics": [],
       "url": "https://github.com/earthtojake/text-to-cad",
       "window": "monthly"
     },
@@ -4959,11 +4982,11 @@
       "language": "TypeScript",
       "last_seen": "2026-11-02",
       "name": "hyperframes",
-      "pushed_at": "2026-11-02T00:16:21Z",
-      "recent_stars": 22225,
-      "seen_count": 90,
+      "pushed_at": "2026-11-02T12:16:34Z",
+      "recent_stars": 5153,
+      "seen_count": 91,
       "slug": "heygen-com/hyperframes",
-      "stars": 77104,
+      "stars": 77427,
       "topics": [
         "ai",
         "ai-agents",
@@ -4982,7 +5005,7 @@
         "video-editor"
       ],
       "url": "https://github.com/heygen-com/hyperframes",
-      "window": "monthly"
+      "window": "weekly"
     },
     "higgsfield-ai/higgsfield": {
       "active": false,
@@ -5284,11 +5307,11 @@
       "language": "Markdown",
       "last_seen": "2026-11-02",
       "name": "skills",
-      "pushed_at": "2026-10-25T13:26:17Z",
+      "pushed_at": "2026-11-02T01:29:43Z",
       "recent_stars": 1607,
-      "seen_count": 12,
+      "seen_count": 13,
       "slug": "jakubkrehel/skills",
-      "stars": 10070,
+      "stars": 10243,
       "topics": [],
       "url": "https://github.com/jakubkrehel/skills",
       "window": "weekly"
@@ -5518,6 +5541,22 @@
       "url": "https://github.com/karakeep-app/karakeep",
       "window": "daily"
     },
+    "karpathy/nanochat": {
+      "active": true,
+      "description": "The best ChatGPT that $100 can buy.",
+      "first_seen": "2026-11-02",
+      "language": "Python",
+      "last_seen": "2026-11-02",
+      "name": "nanochat",
+      "pushed_at": "2026-09-07T20:06:43Z",
+      "recent_stars": 325,
+      "seen_count": 1,
+      "slug": "karpathy/nanochat",
+      "stars": 59616,
+      "topics": [],
+      "url": "https://github.com/karpathy/nanochat",
+      "window": "daily"
+    },
     "kenn-io/agentsview": {
       "active": false,
       "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. ",
@@ -5603,11 +5642,11 @@
       "language": "Python",
       "last_seen": "2026-11-02",
       "name": "kornia",
-      "pushed_at": "2026-11-01T18:28:07Z",
-      "recent_stars": 101,
-      "seen_count": 2,
+      "pushed_at": "2026-11-02T11:23:19Z",
+      "recent_stars": 412,
+      "seen_count": 3,
       "slug": "kornia/kornia",
-      "stars": 11779,
+      "stars": 11993,
       "topics": [
         "artificial-intelligence",
         "computer-vision",
@@ -5733,7 +5772,7 @@
       "window": "weekly"
     },
     "lightpanda-io/browser": {
-      "active": true,
+      "active": false,
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "first_seen": "2026-09-07",
       "language": "Zig",
@@ -6037,20 +6076,27 @@
       "window": "daily"
     },
     "max-sixty/worktrunk": {
-      "active": false,
+      "active": true,
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "first_seen": "2026-09-12",
       "language": "Rust",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-11-02",
       "name": "worktrunk",
-      "pushed_at": "",
-      "recent_stars": 2240,
-      "seen_count": 39,
+      "pushed_at": "2026-11-02T10:03:56Z",
+      "recent_stars": 115,
+      "seen_count": 40,
       "slug": "max-sixty/worktrunk",
-      "stars": 9127,
-      "topics": [],
+      "stars": 9832,
+      "topics": [
+        "agents",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "git",
+        "worktrees"
+      ],
       "url": "https://github.com/max-sixty/worktrunk",
-      "window": "monthly"
+      "window": "daily"
     },
     "melgarafael/DeskcommCRM": {
       "active": false,
@@ -6090,41 +6136,20 @@
       "window": "monthly"
     },
     "michael-denyer/pstack-claude": {
-      "active": false,
-      "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "active": true,
+      "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "first_seen": "2026-10-05",
-      "language": "JavaScript",
-      "last_seen": "2026-10-05",
+      "language": "TypeScript",
+      "last_seen": "2026-11-02",
       "name": "pstack-claude",
-      "pushed_at": "2026-10-04T20:53:10Z",
-      "recent_stars": 232,
-      "seen_count": 1,
+      "pushed_at": "",
+      "recent_stars": 2996,
+      "seen_count": 2,
       "slug": "michael-denyer/pstack-claude",
-      "stars": 1285,
-      "topics": [
-        "agent-plugin",
-        "agent-skills",
-        "agentic-ai",
-        "anthropic",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-code-skills",
-        "claude-skills",
-        "code-review",
-        "codex",
-        "codex-cli",
-        "codex-plugin",
-        "codex-skills",
-        "coding-agent",
-        "developer-tools",
-        "gemini-cli",
-        "opencode",
-        "pstack"
-      ],
+      "stars": 3756,
+      "topics": [],
       "url": "https://github.com/michael-denyer/pstack-claude",
-      "window": "daily"
+      "window": "monthly"
     },
     "microsoft/AI-For-Beginners": {
       "active": false,
@@ -6312,7 +6337,7 @@
       "window": "daily"
     },
     "milind-soni/OpenMausBot": {
-      "active": true,
+      "active": false,
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "first_seen": "2026-10-29",
       "language": "TypeScript",
@@ -6369,38 +6394,17 @@
     },
     "mksglu/context-mode": {
       "active": true,
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "first_seen": "2026-09-07",
       "language": "TypeScript",
       "last_seen": "2026-11-02",
       "name": "context-mode",
-      "pushed_at": "2026-11-02T00:12:20Z",
+      "pushed_at": "",
       "recent_stars": 8666,
-      "seen_count": 98,
+      "seen_count": 99,
       "slug": "mksglu/context-mode",
-      "stars": 33161,
-      "topics": [
-        "antigravity",
-        "claude",
-        "claude-code",
-        "claude-code-hooks",
-        "claude-code-plugins",
-        "claude-code-skill",
-        "codex",
-        "codex-cli",
-        "context-mode",
-        "copilot",
-        "cursor-plugin",
-        "kiro",
-        "mcp",
-        "mcp-server",
-        "mcp-tools",
-        "openclaw",
-        "opencode",
-        "pi-agent",
-        "skills",
-        "zed-extension"
-      ],
+      "stars": 33221,
+      "topics": [],
       "url": "https://github.com/mksglu/context-mode",
       "window": "monthly"
     },
@@ -6641,9 +6645,9 @@
       "name": "andrej-karpathy-skills",
       "pushed_at": "2026-04-20T10:05:04Z",
       "recent_stars": 4459,
-      "seen_count": 26,
+      "seen_count": 27,
       "slug": "multica-ai/andrej-karpathy-skills",
-      "stars": 227987,
+      "stars": 228293,
       "topics": [],
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "window": "weekly"
@@ -6879,9 +6883,9 @@
       "name": "superpowers",
       "pushed_at": "2026-10-29T23:35:34Z",
       "recent_stars": 5896,
-      "seen_count": 76,
+      "seen_count": 77,
       "slug": "obra/superpowers",
-      "stars": 310628,
+      "stars": 310943,
       "topics": [
         "ai",
         "brainstorming",
@@ -7048,24 +7052,28 @@
       "window": "weekly"
     },
     "p-e-w/heretic": {
-      "active": false,
-      "description": "Fully automatic censorship removal for language models",
+      "active": true,
+      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
       "first_seen": "2026-08-30",
       "language": "Python",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-11-02",
       "name": "heretic",
-      "pushed_at": "2026-09-05T16:11:52Z",
-      "recent_stars": 2010,
-      "seen_count": 13,
+      "pushed_at": "2026-11-01T13:03:19Z",
+      "recent_stars": 404,
+      "seen_count": 14,
       "slug": "p-e-w/heretic",
-      "stars": 30663,
+      "stars": 37784,
       "topics": [
         "abliteration",
+        "anti-censorship",
+        "anticensorship",
+        "censorship",
+        "censorship-resistance",
         "llm",
         "transformer"
       ],
       "url": "https://github.com/p-e-w/heretic",
-      "window": "weekly"
+      "window": "daily"
     },
     "pacifio/atlas": {
       "active": false,
@@ -7124,17 +7132,17 @@
       "window": "daily"
     },
     "paperclipai/paperclip": {
-      "active": false,
+      "active": true,
       "description": "The open-source app everyone uses to manage agents at work",
       "first_seen": "2026-10-12",
       "language": "TypeScript",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-11-02",
       "name": "paperclip",
-      "pushed_at": "2026-10-27T11:07:00Z",
-      "recent_stars": 21863,
-      "seen_count": 28,
+      "pushed_at": "2026-11-02T09:50:49Z",
+      "recent_stars": 507,
+      "seen_count": 29,
       "slug": "paperclipai/paperclip",
-      "stars": 107819,
+      "stars": 110099,
       "topics": [
         "acpx",
         "agent-orchestration",
@@ -7158,7 +7166,7 @@
         "workflow-automation"
       ],
       "url": "https://github.com/paperclipai/paperclip",
-      "window": "monthly"
+      "window": "daily"
     },
     "paperless-ngx/paperless-ngx": {
       "active": false,
@@ -7225,7 +7233,7 @@
       "window": "daily"
     },
     "patchy631/ai-engineering-hub": {
-      "active": true,
+      "active": false,
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "first_seen": "2026-11-01",
       "language": "Jupyter Notebook",
@@ -7256,9 +7264,9 @@
       "name": "impeccable",
       "pushed_at": "2026-11-01T18:04:59Z",
       "recent_stars": 12017,
-      "seen_count": 79,
+      "seen_count": 80,
       "slug": "pbakaus/impeccable",
-      "stars": 99308,
+      "stars": 99985,
       "topics": [
         "agent-skills",
         "ai",
@@ -7370,22 +7378,20 @@
       "window": "daily"
     },
     "ranxianglei/billion-context": {
-      "active": false,
-      "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken)\u548c\u8d85\u957f\u4f1a\u8bdd(\u6570\u6708\u7ea7\u522b\u51e0\u5341\u4ebftoken\u5355\u4f1a\u8bdd)\u3002billion-context is all you need",
+      "active": true,
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u6708\u7ea7\u957f\u4f1a\u8bdd\u4f1a\u8bdd\uff0c \u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken) . billion-context is all you need",
       "first_seen": "2026-10-10",
       "language": "TypeScript",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-11-02",
       "name": "billion-context",
-      "pushed_at": "2026-10-17T21:39:06Z",
-      "recent_stars": 779,
-      "seen_count": 10,
+      "pushed_at": "",
+      "recent_stars": 3150,
+      "seen_count": 11,
       "slug": "ranxianglei/billion-context",
-      "stars": 1712,
-      "topics": [
-        "dsh-plugin"
-      ],
+      "stars": 3644,
+      "topics": [],
       "url": "https://github.com/ranxianglei/billion-context",
-      "window": "weekly"
+      "window": "monthly"
     },
     "rlaope/oh-my-hermes": {
       "active": false,
@@ -8092,11 +8098,11 @@
       "language": "TypeScript",
       "last_seen": "2026-11-02",
       "name": "freellmapi",
-      "pushed_at": "2026-11-01T22:35:59Z",
+      "pushed_at": "",
       "recent_stars": 15908,
-      "seen_count": 87,
+      "seen_count": 88,
       "slug": "tashfeenahmed/freellmapi",
-      "stars": 45714,
+      "stars": 46048,
       "topics": [],
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "window": "monthly"
@@ -8157,11 +8163,11 @@
       "language": "TypeScript",
       "last_seen": "2026-11-02",
       "name": "claude-mem",
-      "pushed_at": "2026-11-01T21:01:59Z",
-      "recent_stars": 1526,
-      "seen_count": 51,
+      "pushed_at": "2026-11-02T10:09:11Z",
+      "recent_stars": 1799,
+      "seen_count": 52,
       "slug": "thedotmack/claude-mem",
-      "stars": 109231,
+      "stars": 110220,
       "topics": [
         "ai",
         "ai-agents",
@@ -8641,8 +8647,37 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "window": "monthly"
     },
-    "vercel-labs/skills": {
+    "vercel-labs/agent-desktop": {
       "active": true,
+      "description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it \u2014 refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
+      "first_seen": "2026-11-02",
+      "language": "Rust",
+      "last_seen": "2026-11-02",
+      "name": "agent-desktop",
+      "pushed_at": "2026-11-02T09:39:59Z",
+      "recent_stars": 2243,
+      "seen_count": 1,
+      "slug": "vercel-labs/agent-desktop",
+      "stars": 7906,
+      "topics": [
+        "accessibility",
+        "accessibility-api",
+        "ai-agents",
+        "automation",
+        "cli",
+        "computer-use",
+        "computer-use-agent",
+        "computer-use-agents",
+        "desktop-automation",
+        "macos",
+        "mcp",
+        "rust"
+      ],
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "window": "daily"
+    },
+    "vercel-labs/skills": {
+      "active": false,
       "description": "The open agent skills tool - npx skills",
       "first_seen": "2026-09-10",
       "language": "TypeScript",
