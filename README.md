@@ -17,7 +17,7 @@ Rows are grouped by what the tool is. Within each group, starred GitHub repos ar
 
 Auto-updated from GitHub Trending. Current rows are repos trending now; archive rows are kept after they fall out so references are not lost.
 
-Generated: `2026-11-04T12:17:11Z`
+Generated: `2026-11-05T00:17:10Z`
 
 ### Current Trending Windows
 
@@ -26,16 +26,18 @@ Generated: `2026-11-04T12:17:11Z`
 
 | Repo | Window | Language | ⭐ Stars | 🔥 Recent | Why it matched | Last seen |
 |---|---|---|---:|---:|---|---:|
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | daily | Rust | ⭐ 14.0k | 🔥 +2463 | Computer use CLI for AI agents | 2026-11-04 |
-| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | daily | Python | ⭐ 3.7k | 🔥 +2053 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables determini… | 2026-11-04 |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | daily | Python | ⭐ 95.7k | 🔥 +2006 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, j… | 2026-11-04 |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | daily | TypeScript | ⭐ 112.4k | 🔥 +1165 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it… | 2026-11-04 |
-| [github/spec-kit](https://github.com/github/spec-kit) | daily | Python | ⭐ 146.9k | 🔥 +810 | 💫 Toolkit to help you get started with SDD or any other process! | 2026-11-04 |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | daily | Python | ⭐ 138.5k | 🔥 +615 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. | 2026-11-04 |
-| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | daily | Rust | ⭐ 10.8k | 🔥 +524 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | 2026-11-04 |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | daily | TypeScript | ⭐ 139.0k | 🔥 +285 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager… | 2026-11-04 |
-| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | daily | Python | ⭐ 14.5k | 🔥 +279 | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. | 2026-11-04 |
-| [scenario-labs/skills](https://github.com/scenario-labs/skills) | daily | Python | ⭐ 2.1k | 🔥 +224 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spe… | 2026-11-04 |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | daily | Rust | ⭐ 15.0k | 🔥 +2470 | Computer use CLI for AI agents | 2026-11-05 |
+| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | daily | Python | ⭐ 4.9k | 🔥 +2050 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables determini… | 2026-11-05 |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | daily | Python | ⭐ 96.5k | 🔥 +2005 | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, j… | 2026-11-05 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | daily | TypeScript | ⭐ 112.8k | 🔥 +1172 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it… | 2026-11-05 |
+| [github/spec-kit](https://github.com/github/spec-kit) | daily | Python | ⭐ 147.3k | 🔥 +808 | 💫 Toolkit to help you get started with SDD or any other process! | 2026-11-05 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | daily | Python | ⭐ 138.9k | 🔥 +617 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. | 2026-11-05 |
+| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | daily | Rust | ⭐ 11.0k | 🔥 +531 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | 2026-11-05 |
+| [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | daily | C | ⭐ 10.3k | 🔥 +351 | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framew… | 2026-11-05 |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | daily | TypeScript | ⭐ 139.3k | 🔥 +290 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager… | 2026-11-05 |
+| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | daily | Python | ⭐ 14.7k | 🔥 +280 | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. | 2026-11-05 |
+| [scenario-labs/skills](https://github.com/scenario-labs/skills) | daily | Python | ⭐ 2.4k | 🔥 +224 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spe… | 2026-11-05 |
+| [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | daily | Python | ⭐ 12.5k | 🔥 +121 | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. \| 用 AI 构建你专属的新闻雷达 | 2026-11-05 |
 
 </details>
 
@@ -44,18 +46,18 @@ Generated: `2026-11-04T12:17:11Z`
 
 | Repo | Window | Language | ⭐ Stars | 🔥 Recent | Why it matched | Last seen |
 |---|---|---|---:|---:|---|---:|
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | weekly | Rust | ⭐ 102.0k | 🔥 +11405 | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slo… | 2026-11-04 |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | weekly | CSS | ⭐ 47.4k | 🔥 +8765 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | 2026-11-04 |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | weekly | TypeScript | ⭐ 112.4k | 🔥 +7995 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it… | 2026-11-04 |
-| [obra/superpowers](https://github.com/obra/superpowers) | weekly | Shell | ⭐ 312.1k | 🔥 +5994 | An agentic skills framework & software development methodology that works. | 2026-11-04 |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | weekly | JavaScript | ⭐ 109.8k | 🔥 +5972 | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI p… | 2026-11-04 |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | weekly | - | ⭐ 229.3k | 🔥 +3921 | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitf… | 2026-11-04 |
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | weekly | TypeScript | ⭐ 7.5k | 🔥 +3898 | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need | 2026-11-04 |
-| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | weekly | Python | ⭐ 26.5k | 🔥 +3751 | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, ag… | 2026-11-04 |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | weekly | Python | ⭐ 76.2k | 🔥 +3490 | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and p… | 2026-11-04 |
-| [anthropics/skills](https://github.com/anthropics/skills) | weekly | Python | ⭐ 187.3k | 🔥 +2969 | Public repository for Agent Skills | 2026-11-04 |
-| [jakubkrehel/skills](https://github.com/jakubkrehel/skills) | weekly | Markdown | ⭐ 10.7k | 🔥 +1761 | A collection of agent skills that help you build great interfaces. | 2026-11-04 |
-| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | weekly | Rust | ⭐ 10.8k | 🔥 +749 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | 2026-11-04 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | weekly | Rust | ⭐ 102.8k | 🔥 +10921 | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slo… | 2026-11-05 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | weekly | TypeScript | ⭐ 112.8k | 🔥 +8822 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it… | 2026-11-05 |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | weekly | CSS | ⭐ 47.9k | 🔥 +7622 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | 2026-11-05 |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | weekly | JavaScript | ⭐ 110.1k | 🔥 +5935 | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI p… | 2026-11-05 |
+| [obra/superpowers](https://github.com/obra/superpowers) | weekly | Shell | ⭐ 312.4k | 🔥 +5565 | An agentic skills framework & software development methodology that works. | 2026-11-05 |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | weekly | - | ⭐ 229.5k | 🔥 +3808 | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitf… | 2026-11-05 |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | weekly | Python | ⭐ 76.5k | 🔥 +3743 | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and p… | 2026-11-05 |
+| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | weekly | Python | ⭐ 26.7k | 🔥 +3531 | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, ag… | 2026-11-05 |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | weekly | TypeScript | ⭐ 7.6k | 🔥 +3031 | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need | 2026-11-05 |
+| [anthropics/skills](https://github.com/anthropics/skills) | weekly | Python | ⭐ 187.4k | 🔥 +3003 | Public repository for Agent Skills | 2026-11-05 |
+| [jakubkrehel/skills](https://github.com/jakubkrehel/skills) | weekly | Markdown | ⭐ 10.8k | 🔥 +1865 | A collection of agent skills that help you build great interfaces. | 2026-11-05 |
+| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | weekly | Rust | ⭐ 11.0k | 🔥 +1261 | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | 2026-11-05 |
 
 </details>
 
@@ -64,14 +66,16 @@ Generated: `2026-11-04T12:17:11Z`
 
 | Repo | Window | Language | ⭐ Stars | 🔥 Recent | Why it matched | Last seen |
 |---|---|---|---:|---:|---|---:|
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | monthly | JavaScript | ⭐ 58.5k | 🔥 +34248 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | 2026-11-04 |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | monthly | Rust | ⭐ 102.0k | 🔥 +26980 | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slo… | 2026-11-04 |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | monthly | CSS | ⭐ 47.4k | 🔥 +17314 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | 2026-11-04 |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | monthly | TypeScript | ⭐ 112.4k | 🔥 +16740 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it… | 2026-11-04 |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | monthly | Python | ⭐ 46.1k | 🔥 +8845 | Official, Anthropic-managed directory of high quality Claude Code Plugins. | 2026-11-04 |
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | monthly | Python | ⭐ 25.3k | 🔥 +8708 | Design physical products with AI | 2026-11-04 |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | monthly | Python | ⭐ 34.7k | 🔥 +8685 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | 2026-11-04 |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | monthly | TypeScript | ⭐ 33.4k | 🔥 +8397 | Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99… | 2026-11-04 |
+| [morluto/rea](https://github.com/morluto/rea) | monthly | TypeScript | ⭐ 430.8k | 🔥 +430285 | Reverse engineer anything with agents, from app behavior down to native binaries. | 2026-11-05 |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | monthly | Python | ⭐ 101.0k | 🔥 +48420 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictat… | 2026-11-05 |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | monthly | JavaScript | ⭐ 59.3k | 🔥 +34859 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | 2026-11-05 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | monthly | Rust | ⭐ 102.8k | 🔥 +26803 | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slo… | 2026-11-05 |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | monthly | TypeScript | ⭐ 78.9k | 🔥 +22621 | Write HTML. Render video. Built for agents. | 2026-11-05 |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | monthly | CSS | ⭐ 47.9k | 🔥 +18210 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | 2026-11-05 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | monthly | TypeScript | ⭐ 112.8k | 🔥 +17262 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it… | 2026-11-05 |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | monthly | Python | ⭐ 46.1k | 🔥 +8948 | Official, Anthropic-managed directory of high quality Claude Code Plugins. | 2026-11-05 |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | monthly | Python | ⭐ 25.4k | 🔥 +8831 | Design physical products with AI | 2026-11-05 |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | monthly | Python | ⭐ 34.7k | 🔥 +8764 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | 2026-11-05 |
 
 </details>
 
@@ -79,10 +83,8 @@ Generated: `2026-11-04T12:17:11Z`
 
 | Repo | Window | Language | ⭐ Stars | 🔥 Recent | Why it matched | Last seen |
 |---|---|---|---:|---:|---|---:|
-| [morluto/rea](https://github.com/morluto/rea) | monthly | TypeScript | ⭐ 427.0k | 🔥 +426427 | Reverse engineer anything with agents, from app behavior down to native binaries. | 2026-11-04 |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | monthly | Python | ⭐ 100.0k | 🔥 +48168 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictat… | 2026-11-04 |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | monthly | TypeScript | ⭐ 78.4k | 🔥 +22387 | Write HTML. Render video. Built for agents. | 2026-11-04 |
 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | monthly | TypeScript | ⭐ 47.0k | 🔥 +16812 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any cu… | 2026-11-04 |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | monthly | TypeScript | ⭐ 33.4k | 🔥 +8397 | Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99… | 2026-11-04 |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | weekly | JavaScript | ⭐ 296.6k | 🔥 +6053 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development… | 2026-11-04 |
 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | monthly | TypeScript | ⭐ 3.9k | 🔥 +3363 | A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context… | 2026-11-04 |
 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | weekly | Python | ⭐ 120.3k | 🔥 +3336 | TradingAgents: Multi-Agents LLM Financial Trading Framework | 2026-11-04 |
@@ -129,6 +131,8 @@ Generated: `2026-11-04T12:17:11Z`
 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | weekly | Rust | ⭐ 14.1k | 🔥 +2838 | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors | 2026-10-27 |
 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | daily | TypeScript | ⭐ 39.3k | 🔥 +953 | 📨 The ultimate agentic social media scheduling tool 🤖 | 2026-10-27 |
 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | monthly | Python | ⭐ 74.4k | 🔥 +16847 | Learn AI Engineering! Learn it. Build it. Ship it for others. | 2026-10-26 |
+| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | weekly | Python | ⭐ 143.3k | 🔥 +4790 | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local infe… | 2026-10-26 |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | monthly | Python | ⭐ 39.8k | 🔥 +3964 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 2026-10-26 |
 <!-- agent-kit-board:trending:end -->
 
 ## 🚀 Start Here
