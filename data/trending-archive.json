@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T00:17:09Z",
+  "checked_at": "2026-11-06T12:17:09Z",
   "repos": {
     "1jehuang/jcode": {
       "active": false,
@@ -379,7 +379,7 @@
       "window": "daily"
     },
     "ConardLi/garden-skills": {
-      "active": true,
+      "active": false,
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "first_seen": "2026-08-26",
       "language": "JavaScript",
@@ -472,10 +472,10 @@
       "last_seen": "2026-11-06",
       "name": "Scrapling",
       "pushed_at": "2026-11-05T18:01:47Z",
-      "recent_stars": 1655,
-      "seen_count": 8,
+      "recent_stars": 7487,
+      "seen_count": 9,
       "slug": "D4Vinci/Scrapling",
-      "stars": 97944,
+      "stars": 98577,
       "topics": [
         "ai",
         "ai-scraping",
@@ -499,7 +499,7 @@
         "xpath"
       ],
       "url": "https://github.com/D4Vinci/Scrapling",
-      "window": "daily"
+      "window": "weekly"
     },
     "DayuanJiang/next-ai-draw-io": {
       "active": false,
@@ -609,17 +609,17 @@
       "window": "monthly"
     },
     "Donchitos/Claude-Code-Game-Studios": {
-      "active": false,
+      "active": true,
       "description": "Turn Claude Code into a full game dev studio \u2014 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "first_seen": "2026-10-29",
       "language": "Shell",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "name": "Claude-Code-Game-Studios",
       "pushed_at": "2026-10-19T02:43:42Z",
-      "recent_stars": 1182,
-      "seen_count": 10,
+      "recent_stars": 6685,
+      "seen_count": 11,
       "slug": "Donchitos/Claude-Code-Game-Studios",
-      "stars": 34646,
+      "stars": 35882,
       "topics": [
         "ai-agents",
         "ai-assisted-development",
@@ -635,7 +635,7 @@
         "unreal-engine"
       ],
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "window": "daily"
+      "window": "weekly"
     },
     "DuarteSantos8/openGym": {
       "active": false,
@@ -915,11 +915,11 @@
       "language": "Python",
       "last_seen": "2026-11-06",
       "name": "DeepTutor",
-      "pushed_at": "2026-11-05T19:03:44Z",
+      "pushed_at": "2026-11-06T08:42:04Z",
       "recent_stars": 6229,
-      "seen_count": 64,
+      "seen_count": 65,
       "slug": "HKUDS/DeepTutor",
-      "stars": 55441,
+      "stars": 55734,
       "topics": [
         "ai-agents",
         "ai-tutor",
@@ -1245,7 +1245,7 @@
       "window": "weekly"
     },
     "Leonxlnx/taste-skill": {
-      "active": true,
+      "active": false,
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "first_seen": "2026-07-06",
       "language": "JavaScript",
@@ -1536,11 +1536,11 @@
       "language": "Python",
       "last_seen": "2026-11-06",
       "name": "auto-ontology",
-      "pushed_at": "2026-11-05T14:45:30Z",
-      "recent_stars": 2679,
-      "seen_count": 4,
+      "pushed_at": "2026-11-06T10:47:41Z",
+      "recent_stars": 2005,
+      "seen_count": 5,
       "slug": "NVIDIA/auto-ontology",
-      "stars": 7282,
+      "stars": 8310,
       "topics": [],
       "url": "https://github.com/NVIDIA/auto-ontology",
       "window": "daily"
@@ -1584,9 +1584,9 @@
       "name": "hallmark",
       "pushed_at": "2026-11-05T13:16:31Z",
       "recent_stars": 6994,
-      "seen_count": 91,
+      "seen_count": 92,
       "slug": "Nutlope/hallmark",
-      "stars": 48754,
+      "stars": 49208,
       "topics": [],
       "url": "https://github.com/Nutlope/hallmark",
       "window": "weekly"
@@ -2306,11 +2306,11 @@
       "language": "Python",
       "last_seen": "2026-11-06",
       "name": "pr-agent",
-      "pushed_at": "2026-11-05T23:59:11Z",
+      "pushed_at": "2026-11-06T09:07:32Z",
       "recent_stars": 1355,
-      "seen_count": 4,
+      "seen_count": 5,
       "slug": "The-PR-Agent/pr-agent",
-      "stars": 15089,
+      "stars": 15202,
       "topics": [
         "ai",
         "anthropic",
@@ -2431,7 +2431,7 @@
       "window": "monthly"
     },
     "Usagi-org/ai-goofish-monitor": {
-      "active": true,
+      "active": false,
       "description": "\u57fa\u4e8e Playwright \u548cAI\u5b9e\u73b0\u7684\u95f2\u9c7c\u591a\u4efb\u52a1\u5b9e\u65f6/\u5b9a\u65f6\u76d1\u63a7\u4e0e\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff0c\u914d\u5907\u4e86\u529f\u80fd\u5b8c\u5584\u7684\u540e\u53f0\u7ba1\u7406UI\u3002\u5e2e\u52a9\u7528\u6237\u4ece\u95f2\u9c7c\u6d77\u91cf\u5546\u54c1\u4e2d\uff0c\u627e\u5230\u5fc3\u4eea\u4ea7\u54c1\u3002",
       "first_seen": "2026-11-03",
       "language": "Python",
@@ -3305,11 +3305,11 @@
       "language": "Python",
       "last_seen": "2026-11-06",
       "name": "knowledge-work-plugins",
-      "pushed_at": "2026-11-04T07:26:14Z",
+      "pushed_at": "",
       "recent_stars": 8823,
-      "seen_count": 98,
+      "seen_count": 99,
       "slug": "anthropics/knowledge-work-plugins",
-      "stars": 34862,
+      "stars": 34935,
       "topics": [],
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "window": "monthly"
@@ -3323,9 +3323,9 @@
       "name": "skills",
       "pushed_at": "2026-10-28T19:20:39Z",
       "recent_stars": 3072,
-      "seen_count": 29,
+      "seen_count": 30,
       "slug": "anthropics/skills",
-      "stars": 187753,
+      "stars": 187977,
       "topics": [
         "agent-skills"
       ],
@@ -3729,9 +3729,9 @@
       "name": "OpenMontage",
       "pushed_at": "2026-11-03T17:42:02Z",
       "recent_stars": 4132,
-      "seen_count": 59,
+      "seen_count": 60,
       "slug": "calesthio/OpenMontage",
-      "stars": 77147,
+      "stars": 77453,
       "topics": [
         "agent",
         "agentic-ai",
@@ -3888,13 +3888,13 @@
       "last_seen": "2026-11-06",
       "name": "security-audit-skill",
       "pushed_at": "2026-09-14T19:29:02Z",
-      "recent_stars": 35956,
-      "seen_count": 73,
+      "recent_stars": 2524,
+      "seen_count": 74,
       "slug": "cloudflare/security-audit-skill",
-      "stars": 61438,
+      "stars": 62762,
       "topics": [],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "window": "monthly"
+      "window": "daily"
     },
     "coder/coder": {
       "active": false,
@@ -4072,7 +4072,7 @@
       "window": "weekly"
     },
     "debpalash/VoiceStudio": {
-      "active": true,
+      "active": false,
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "first_seen": "2026-09-01",
       "language": "Python",
@@ -4766,7 +4766,7 @@
       "window": "monthly"
     },
     "garrytan/gstack": {
-      "active": true,
+      "active": false,
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "first_seen": "2026-10-04",
       "language": "TypeScript",
@@ -4926,10 +4926,10 @@
       "last_seen": "2026-11-06",
       "name": "skills",
       "pushed_at": "2026-11-05T22:00:15Z",
-      "recent_stars": 211,
-      "seen_count": 20,
+      "recent_stars": 532,
+      "seen_count": 21,
       "slug": "google/skills",
-      "stars": 22361,
+      "stars": 22626,
       "topics": [
         "google",
         "googlecloud",
@@ -5140,7 +5140,7 @@
       "window": "daily"
     },
     "heygen-com/hyperframes": {
-      "active": true,
+      "active": false,
       "description": "Write HTML. Render video. Built for agents.",
       "first_seen": "2026-09-07",
       "language": "TypeScript",
@@ -5473,9 +5473,9 @@
       "name": "skills",
       "pushed_at": "2026-11-02T01:29:43Z",
       "recent_stars": 1840,
-      "seen_count": 20,
+      "seen_count": 21,
       "slug": "jakubkrehel/skills",
-      "stars": 11026,
+      "stars": 11167,
       "topics": [],
       "url": "https://github.com/jakubkrehel/skills",
       "window": "weekly"
@@ -6246,11 +6246,11 @@
       "language": "Rust",
       "last_seen": "2026-11-06",
       "name": "worktrunk",
-      "pushed_at": "2026-11-05T23:51:22Z",
-      "recent_stars": 546,
-      "seen_count": 47,
+      "pushed_at": "2026-11-06T10:14:56Z",
+      "recent_stars": 1802,
+      "seen_count": 48,
       "slug": "max-sixty/worktrunk",
-      "stars": 11501,
+      "stars": 11724,
       "topics": [
         "agents",
         "claude-code",
@@ -6260,7 +6260,7 @@
         "worktrees"
       ],
       "url": "https://github.com/max-sixty/worktrunk",
-      "window": "daily"
+      "window": "weekly"
     },
     "melgarafael/DeskcommCRM": {
       "active": false,
@@ -6380,7 +6380,7 @@
       "window": "daily"
     },
     "microsoft/VibeVoice": {
-      "active": true,
+      "active": false,
       "description": "Open-Source Frontier Voice AI",
       "first_seen": "2026-07-29",
       "language": "Python",
@@ -6528,11 +6528,11 @@
       "language": "TypeScript",
       "last_seen": "2026-11-06",
       "name": "OpenMausBot",
-      "pushed_at": "2026-11-05T23:42:43Z",
+      "pushed_at": "2026-11-06T10:45:25Z",
       "recent_stars": 5580,
-      "seen_count": 10,
+      "seen_count": 11,
       "slug": "milind-soni/OpenMausBot",
-      "stars": 13285,
+      "stars": 14293,
       "topics": [
         "ai-agents",
         "claude-code",
@@ -6732,7 +6732,7 @@
       "window": "daily"
     },
     "morluto/rea": {
-      "active": true,
+      "active": false,
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "first_seen": "2026-10-06",
       "language": "TypeScript",
@@ -6828,11 +6828,11 @@
       "language": "",
       "last_seen": "2026-11-06",
       "name": "andrej-karpathy-skills",
-      "pushed_at": "2026-04-20T10:05:04Z",
+      "pushed_at": "",
       "recent_stars": 3713,
-      "seen_count": 34,
+      "seen_count": 35,
       "slug": "multica-ai/andrej-karpathy-skills",
-      "stars": 229872,
+      "stars": 230085,
       "topics": [],
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "window": "weekly"
@@ -7014,17 +7014,17 @@
       "window": "daily"
     },
     "nightly-labs/openbot": {
-      "active": false,
+      "active": true,
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "first_seen": "2026-10-26",
       "language": "TypeScript",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-06",
       "name": "openbot",
-      "pushed_at": "2026-10-29T23:15:45Z",
-      "recent_stars": 705,
-      "seen_count": 8,
+      "pushed_at": "2026-11-06T12:15:16Z",
+      "recent_stars": 2085,
+      "seen_count": 9,
       "slug": "nightly-labs/openbot",
-      "stars": 3847,
+      "stars": 5914,
       "topics": [
         "ai-agents",
         "bun",
@@ -7036,7 +7036,7 @@
         "typescript"
       ],
       "url": "https://github.com/nightly-labs/openbot",
-      "window": "daily"
+      "window": "weekly"
     },
     "oblien/openship": {
       "active": false,
@@ -7068,9 +7068,9 @@
       "name": "superpowers",
       "pushed_at": "2026-11-03T23:24:58Z",
       "recent_stars": 5131,
-      "seen_count": 84,
+      "seen_count": 85,
       "slug": "obra/superpowers",
-      "stars": 313004,
+      "stars": 313317,
       "topics": [
         "ai",
         "brainstorming",
@@ -7449,9 +7449,9 @@
       "name": "impeccable",
       "pushed_at": "2026-11-05T22:22:37Z",
       "recent_stars": 9303,
-      "seen_count": 87,
+      "seen_count": 88,
       "slug": "pbakaus/impeccable",
-      "stars": 103905,
+      "stars": 104376,
       "topics": [
         "agent-skills",
         "ai",
@@ -7794,7 +7794,7 @@
       "window": "weekly"
     },
     "scenario-labs/skills": {
-      "active": true,
+      "active": false,
       "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
       "first_seen": "2026-11-04",
       "language": "Python",
@@ -8387,11 +8387,11 @@
       "language": "TypeScript",
       "last_seen": "2026-11-06",
       "name": "claude-mem",
-      "pushed_at": "2026-11-06T00:11:04Z",
+      "pushed_at": "2026-11-06T11:52:18Z",
       "recent_stars": 9318,
-      "seen_count": 59,
+      "seen_count": 60,
       "slug": "thedotmack/claude-mem",
-      "stars": 113536,
+      "stars": 113776,
       "topics": [
         "ai",
         "ai-agents",
@@ -8872,7 +8872,7 @@
       "window": "monthly"
     },
     "vercel-labs/agent-browser": {
-      "active": true,
+      "active": false,
       "description": "Browser automation CLI for AI agents",
       "first_seen": "2026-11-05",
       "language": "Rust",
@@ -8888,7 +8888,7 @@
       "window": "daily"
     },
     "vercel-labs/agent-desktop": {
-      "active": true,
+      "active": false,
       "description": "Computer use CLI for AI agents",
       "first_seen": "2026-11-02",
       "language": "Rust",
