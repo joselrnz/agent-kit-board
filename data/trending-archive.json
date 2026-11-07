@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T00:17:12Z",
+  "checked_at": "2026-11-07T12:17:11Z",
   "repos": {
     "1jehuang/jcode": {
       "active": false,
@@ -473,9 +473,9 @@
       "name": "Scrapling",
       "pushed_at": "2026-11-05T18:01:47Z",
       "recent_stars": 8372,
-      "seen_count": 10,
+      "seen_count": 11,
       "slug": "D4Vinci/Scrapling",
-      "stars": 98836,
+      "stars": 99077,
       "topics": [
         "ai",
         "ai-scraping",
@@ -617,9 +617,9 @@
       "name": "Claude-Code-Game-Studios",
       "pushed_at": "2026-10-19T02:43:42Z",
       "recent_stars": 6018,
-      "seen_count": 12,
+      "seen_count": 13,
       "slug": "Donchitos/Claude-Code-Game-Studios",
-      "stars": 36111,
+      "stars": 36308,
       "topics": [
         "ai-agents",
         "ai-assisted-development",
@@ -909,7 +909,7 @@
       "window": "monthly"
     },
     "HKUDS/DeepTutor": {
-      "active": true,
+      "active": false,
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "first_seen": "2026-07-15",
       "language": "Python",
@@ -1530,7 +1530,7 @@
       "window": "daily"
     },
     "NVIDIA/auto-ontology": {
-      "active": true,
+      "active": false,
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "first_seen": "2026-11-04",
       "language": "Python",
@@ -1584,9 +1584,9 @@
       "name": "hallmark",
       "pushed_at": "2026-11-05T13:16:31Z",
       "recent_stars": 6900,
-      "seen_count": 93,
+      "seen_count": 94,
       "slug": "Nutlope/hallmark",
-      "stars": 49615,
+      "stars": 49912,
       "topics": [],
       "url": "https://github.com/Nutlope/hallmark",
       "window": "weekly"
@@ -2306,11 +2306,11 @@
       "language": "Python",
       "last_seen": "2026-11-07",
       "name": "pr-agent",
-      "pushed_at": "2026-11-06T21:17:41Z",
+      "pushed_at": "2026-11-07T10:12:40Z",
       "recent_stars": 1523,
-      "seen_count": 6,
+      "seen_count": 7,
       "slug": "The-PR-Agent/pr-agent",
-      "stars": 15300,
+      "stars": 15366,
       "topics": [
         "ai",
         "anthropic",
@@ -3299,7 +3299,7 @@
       "window": "monthly"
     },
     "anthropics/knowledge-work-plugins": {
-      "active": true,
+      "active": false,
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "first_seen": "2026-09-16",
       "language": "Python",
@@ -3322,15 +3322,15 @@
       "last_seen": "2026-11-07",
       "name": "skills",
       "pushed_at": "2026-11-06T22:32:32Z",
-      "recent_stars": 3159,
-      "seen_count": 31,
+      "recent_stars": 386,
+      "seen_count": 32,
       "slug": "anthropics/skills",
-      "stars": 188169,
+      "stars": 188351,
       "topics": [
         "agent-skills"
       ],
       "url": "https://github.com/anthropics/skills",
-      "window": "weekly"
+      "window": "daily"
     },
     "antirez/ds4": {
       "active": false,
@@ -3729,9 +3729,9 @@
       "name": "OpenMontage",
       "pushed_at": "2026-11-03T17:42:02Z",
       "recent_stars": 4405,
-      "seen_count": 61,
+      "seen_count": 62,
       "slug": "calesthio/OpenMontage",
-      "stars": 77692,
+      "stars": 77973,
       "topics": [
         "agent",
         "agentic-ai",
@@ -3888,10 +3888,10 @@
       "last_seen": "2026-11-07",
       "name": "security-audit-skill",
       "pushed_at": "2026-09-14T19:29:02Z",
-      "recent_stars": 2548,
-      "seen_count": 75,
+      "recent_stars": 2088,
+      "seen_count": 76,
       "slug": "cloudflare/security-audit-skill",
-      "stars": 63957,
+      "stars": 64806,
       "topics": [],
       "url": "https://github.com/cloudflare/security-audit-skill",
       "window": "daily"
@@ -4371,6 +4371,28 @@
       "url": "https://github.com/dream-num/univer",
       "window": "weekly"
     },
+    "dsx-ai-factory/nvke": {
+      "active": true,
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "first_seen": "2026-11-07",
+      "language": "Go",
+      "last_seen": "2026-11-07",
+      "name": "nvke",
+      "pushed_at": "2026-11-07T02:09:56Z",
+      "recent_stars": 125,
+      "seen_count": 1,
+      "slug": "dsx-ai-factory/nvke",
+      "stars": 345,
+      "topics": [
+        "bare-metal",
+        "cluster-api",
+        "gpu",
+        "kubernetes",
+        "nvidia"
+      ],
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "window": "daily"
+    },
     "earendil-works/pi": {
       "active": false,
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
@@ -4814,17 +4836,17 @@
       "window": "daily"
     },
     "github/spec-kit": {
-      "active": false,
+      "active": true,
       "description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
       "first_seen": "2026-07-13",
       "language": "Python",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-07",
       "name": "spec-kit",
-      "pushed_at": "2026-11-04T22:34:18Z",
-      "recent_stars": 808,
-      "seen_count": 15,
+      "pushed_at": "2026-11-07T04:09:22Z",
+      "recent_stars": 4202,
+      "seen_count": 16,
       "slug": "github/spec-kit",
-      "stars": 147291,
+      "stars": 148303,
       "topics": [
         "ai",
         "copilot",
@@ -4835,7 +4857,7 @@
         "spec-driven"
       ],
       "url": "https://github.com/github/spec-kit",
-      "window": "daily"
+      "window": "weekly"
     },
     "gitroomhq/postiz-app": {
       "active": false,
@@ -4926,10 +4948,10 @@
       "last_seen": "2026-11-07",
       "name": "skills",
       "pushed_at": "2026-11-06T22:01:22Z",
-      "recent_stars": 534,
-      "seen_count": 22,
+      "recent_stars": 449,
+      "seen_count": 23,
       "slug": "google/skills",
-      "stars": 22827,
+      "stars": 23056,
       "topics": [
         "google",
         "googlecloud",
@@ -5471,11 +5493,11 @@
       "language": "Markdown",
       "last_seen": "2026-11-07",
       "name": "skills",
-      "pushed_at": "2026-11-02T01:29:43Z",
+      "pushed_at": "2026-11-07T05:39:03Z",
       "recent_stars": 1921,
-      "seen_count": 22,
+      "seen_count": 23,
       "slug": "jakubkrehel/skills",
-      "stars": 11288,
+      "stars": 11383,
       "topics": [],
       "url": "https://github.com/jakubkrehel/skills",
       "window": "weekly"
@@ -6246,11 +6268,11 @@
       "language": "Rust",
       "last_seen": "2026-11-07",
       "name": "worktrunk",
-      "pushed_at": "2026-11-06T17:25:04Z",
+      "pushed_at": "2026-11-07T08:25:14Z",
       "recent_stars": 2184,
-      "seen_count": 49,
+      "seen_count": 50,
       "slug": "max-sixty/worktrunk",
-      "stars": 11800,
+      "stars": 11872,
       "topics": [
         "agents",
         "claude-code",
@@ -6261,6 +6283,33 @@
       ],
       "url": "https://github.com/max-sixty/worktrunk",
       "window": "weekly"
+    },
+    "mbillow/localthings": {
+      "active": true,
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "first_seen": "2026-11-07",
+      "language": "Python",
+      "last_seen": "2026-11-07",
+      "name": "localthings",
+      "pushed_at": "2026-11-07T06:48:26Z",
+      "recent_stars": 184,
+      "seen_count": 1,
+      "slug": "mbillow/localthings",
+      "stars": 943,
+      "topics": [
+        "coap-protocol",
+        "coap-server",
+        "custom-component",
+        "dtls",
+        "hacs",
+        "hacs-integration",
+        "home-assistant",
+        "home-automation",
+        "samsung",
+        "smartthings"
+      ],
+      "url": "https://github.com/mbillow/localthings",
+      "window": "daily"
     },
     "melgarafael/DeskcommCRM": {
       "active": false,
@@ -6298,6 +6347,22 @@
       ],
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "window": "monthly"
+    },
+    "meta/astryx": {
+      "active": true,
+      "description": "An open source design system that's fully customizable and agent ready",
+      "first_seen": "2026-11-07",
+      "language": "TypeScript",
+      "last_seen": "2026-11-07",
+      "name": "astryx",
+      "pushed_at": "2026-11-07T12:15:06Z",
+      "recent_stars": 198,
+      "seen_count": 1,
+      "slug": "meta/astryx",
+      "stars": 14128,
+      "topics": [],
+      "url": "https://github.com/meta/astryx",
+      "window": "daily"
     },
     "michael-denyer/pstack-claude": {
       "active": false,
@@ -6528,11 +6593,11 @@
       "language": "TypeScript",
       "last_seen": "2026-11-07",
       "name": "OpenMausBot",
-      "pushed_at": "2026-11-07T00:14:18Z",
-      "recent_stars": 6395,
-      "seen_count": 12,
+      "pushed_at": "2026-11-07T12:03:26Z",
+      "recent_stars": 1986,
+      "seen_count": 13,
       "slug": "milind-soni/OpenMausBot",
-      "stars": 15217,
+      "stars": 16210,
       "topics": [
         "ai-agents",
         "claude-code",
@@ -6548,7 +6613,7 @@
         "typescript"
       ],
       "url": "https://github.com/milind-soni/OpenMausBot",
-      "window": "weekly"
+      "window": "daily"
     },
     "miuuyy/codex-chatgpt-web": {
       "active": false,
@@ -6822,7 +6887,7 @@
       "window": "daily"
     },
     "multica-ai/andrej-karpathy-skills": {
-      "active": true,
+      "active": false,
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "first_seen": "2026-08-22",
       "language": "",
@@ -7014,7 +7079,7 @@
       "window": "daily"
     },
     "nightly-labs/openbot": {
-      "active": true,
+      "active": false,
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "first_seen": "2026-10-26",
       "language": "TypeScript",
@@ -7068,9 +7133,9 @@
       "name": "superpowers",
       "pushed_at": "2026-11-03T23:24:58Z",
       "recent_stars": 4577,
-      "seen_count": 86,
+      "seen_count": 87,
       "slug": "obra/superpowers",
-      "stars": 313603,
+      "stars": 313846,
       "topics": [
         "ai",
         "brainstorming",
@@ -7447,11 +7512,11 @@
       "language": "Rust",
       "last_seen": "2026-11-07",
       "name": "impeccable",
-      "pushed_at": "2026-11-06T23:46:15Z",
+      "pushed_at": "2026-11-07T03:10:10Z",
       "recent_stars": 8172,
-      "seen_count": 89,
+      "seen_count": 90,
       "slug": "pbakaus/impeccable",
-      "stars": 104801,
+      "stars": 105121,
       "topics": [
         "agent-skills",
         "ai",
@@ -7563,22 +7628,22 @@
       "window": "daily"
     },
     "ranxianglei/billion-context": {
-      "active": false,
+      "active": true,
       "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u6708\u7ea7\u957f\u4f1a\u8bdd\u4f1a\u8bdd\uff0c \u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken) . billion-context is all you need",
       "first_seen": "2026-10-10",
       "language": "TypeScript",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-07",
       "name": "billion-context",
-      "pushed_at": "2026-11-03T21:42:18Z",
-      "recent_stars": 3363,
-      "seen_count": 14,
+      "pushed_at": "2026-11-07T12:16:38Z",
+      "recent_stars": 185,
+      "seen_count": 15,
       "slug": "ranxianglei/billion-context",
-      "stars": 3895,
+      "stars": 4403,
       "topics": [
         "dsh-plugin"
       ],
       "url": "https://github.com/ranxianglei/billion-context",
-      "window": "monthly"
+      "window": "daily"
     },
     "rlaope/oh-my-hermes": {
       "active": false,
@@ -8387,11 +8452,11 @@
       "language": "TypeScript",
       "last_seen": "2026-11-07",
       "name": "claude-mem",
-      "pushed_at": "2026-11-06T22:43:49Z",
+      "pushed_at": "2026-11-07T11:26:32Z",
       "recent_stars": 8726,
-      "seen_count": 61,
+      "seen_count": 62,
       "slug": "thedotmack/claude-mem",
-      "stars": 114015,
+      "stars": 114231,
       "topics": [
         "ai",
         "ai-agents",
@@ -8872,17 +8937,17 @@
       "window": "monthly"
     },
     "vercel-labs/agent-browser": {
-      "active": false,
+      "active": true,
       "description": "Browser automation CLI for AI agents",
       "first_seen": "2026-11-05",
       "language": "Rust",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "name": "agent-browser",
-      "pushed_at": "2026-11-06T00:16:55Z",
-      "recent_stars": 150,
-      "seen_count": 2,
+      "pushed_at": "2026-11-07T05:27:47Z",
+      "recent_stars": 180,
+      "seen_count": 3,
       "slug": "vercel-labs/agent-browser",
-      "stars": 45870,
+      "stars": 46413,
       "topics": [],
       "url": "https://github.com/vercel-labs/agent-browser",
       "window": "daily"
